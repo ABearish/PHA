@@ -100,6 +100,7 @@ const populateDataBase = () => {
       console.log("done");
       mongoose.connection.close();
     })
+    .then(() => process.exit())
     .catch((err) => console.log("pop", err));
 };
 
