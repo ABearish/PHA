@@ -1,5 +1,5 @@
 # PHA
-MVP project that uses [NASA's Asteroids - NeoWs](https://api.nasa.gov) to track potentially hazardous astroids. 
+MVP project that uses [NASA's Asteroids - NeoWs](https://api.nasa.gov) to track Potentially Hazardous Asteroids. 
 
 ## How PHA works
 1. Calls NASA's NeoWs API and filters astroids with the property `is_potentially_hazardous_asteroid : true`
