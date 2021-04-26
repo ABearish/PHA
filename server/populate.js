@@ -12,7 +12,8 @@ const getPHAFrApi = async (startDate, endDate) => {
       let dates = Object.keys(results.data["near_earth_objects"]);
       const filteredResults = [];
       dates.forEach((ele) => {
-        filteredResults.push(
+        filteredResults.push(    pha.date = date;
+          pha.results = ele;
           findPHA(results.data["near_earth_objects"][ele], ele)
         );
       });
@@ -78,13 +79,13 @@ const addPHA = async (phas) => {
 };
 
 const populateDataBase = () => {
-  let year = 2020;
+  let year = 2021;
   let days = 01;
   let month = 00;
   let start = new Date(year, month, days);
   let end = new Date(year, month, days + 7);
   let promised = [];
-  while (start.getFullYear() === 2020) {
+  while (start.getFullYear() === 2021) {
     start = new Date(year, month, days);
     end = new Date(year, month, days + 7);
     promised.push(

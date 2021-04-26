@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 require('dotenv').config();
 
-mongoose.connect( `mongodb://mongo:27017/PHA`, {
+mongoose.connect(`mongodb://localhost:27017/PHA`, {
   useUnifiedTopology: true, 
   useNewUrlParser: true,
   useFindAndModify: false,
