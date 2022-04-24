@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Card } from "react-bootstrap";
-
+const link = `https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=`;
 const CustomCards = ({ pha, onUpdateTracker }) => {
   const [added, toggleAdd] = useState(false);
   const displayAddedLink = (added) => {
@@ -43,7 +43,7 @@ const CustomCards = ({ pha, onUpdateTracker }) => {
           <li>Miss Distance(LD): {pha.miss_distance}</li>
         </Card.Body>
         <Card.Link
-          href={`${pha.info};old=0;orb=1;cov=0;log=0;cad=0#orb`}
+          href={link + pha.id + `&view=V`}
           target={"blank"}
         >
           Orbit Diagram

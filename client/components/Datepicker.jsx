@@ -33,8 +33,8 @@ class DatePicker extends React.Component {
                 id="start"
                 name="start"
                 value={this.state.start}
-                min="2020-01-01"
-                max="2020-12-31"
+                min="2022-01-01"
+                max="2022-12-31"
                 required={true}
                 onChange={(e) => {
                   this.onChange(e, "start");
@@ -46,8 +46,8 @@ class DatePicker extends React.Component {
                 id="end"
                 name="end"
                 value={this.state.end}
-                min="2020-01-01"
-                max="2020-12-31"
+                min="2022-01-01"
+                max="2022-12-31"
                 required={true}
                 onChange={(e) => {
                   this.onChange(e, "end");

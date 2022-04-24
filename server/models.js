@@ -49,7 +49,7 @@ const getYTD = () => {
     {
       $match: {
         date: {
-          $gt: new Date("Wed, 01 Jan 2020 00:00:00 GMT"),
+          $gt: new Date("Sat, 01 Jan 2022 00:00:00 GMT"),
           $lte: new Date(Date.now()),
         },
       },

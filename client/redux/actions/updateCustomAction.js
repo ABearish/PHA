@@ -17,7 +17,7 @@ export const clearCustom = () => {
 export const fetchCustomList = (start, end) => {
   return (dispatch) => {
     axios
-      .get(`/pha/custom/${start||'2020-06-20'}/${end||'2020-06-30'}`)
+      .get(`/pha/custom/${start||'2022-06-20'}/${end||'2022-06-30'}`)
       .then((results) => {
         dispatch(updateCustom(results.data));
       })
