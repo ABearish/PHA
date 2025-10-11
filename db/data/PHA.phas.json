@@ -1,0 +1,4674 @@
+[{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf6b"
+  },
+  "id": 2226514,
+  "neo_id": 2226514,
+  "name": "226514 (2003 UX34)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2226514",
+  "date": {
+    "$date": "2025-01-07T00:00:00.000Z"
+  },
+  "est_diameter_min": 810,
+  "est_diameter_max": 1811,
+  "velocity": 37018,
+  "orbiting_body": "Earth",
+  "miss_distance": 48,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf6e"
+  },
+  "id": 3989144,
+  "neo_id": 3989144,
+  "name": "(2020 BC6)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3989144",
+  "date": {
+    "$date": "2025-01-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 590,
+  "est_diameter_max": 1318,
+  "velocity": 49621,
+  "orbiting_body": "Earth",
+  "miss_distance": 10,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf73"
+  },
+  "id": 54520813,
+  "neo_id": 54520813,
+  "name": "(2025 DQ7)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54520813",
+  "date": {
+    "$date": "2025-02-08T00:00:00.000Z"
+  },
+  "est_diameter_min": 404,
+  "est_diameter_max": 904,
+  "velocity": 29464,
+  "orbiting_body": "Earth",
+  "miss_distance": 35,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf6c"
+  },
+  "id": 3723888,
+  "neo_id": 3723888,
+  "name": "(2015 NU2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3723888",
+  "date": {
+    "$date": "2025-01-07T00:00:00.000Z"
+  },
+  "est_diameter_min": 574,
+  "est_diameter_max": 1282,
+  "velocity": 42800,
+  "orbiting_body": "Earth",
+  "miss_distance": 191,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf75"
+  },
+  "id": 2006239,
+  "neo_id": 2006239,
+  "name": "6239 Minos (1989 QF)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2006239",
+  "date": {
+    "$date": "2025-02-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 1669,
+  "est_diameter_max": 3733,
+  "velocity": 22763,
+  "orbiting_body": "Earth",
+  "miss_distance": 39,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf76"
+  },
+  "id": 3739246,
+  "neo_id": 3739246,
+  "name": "(2016 AZ8)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3739246",
+  "date": {
+    "$date": "2025-02-04T00:00:00.000Z"
+  },
+  "est_diameter_min": 533,
+  "est_diameter_max": 1191,
+  "velocity": 50386,
+  "orbiting_body": "Earth",
+  "miss_distance": 175,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf6d"
+  },
+  "id": 3740934,
+  "neo_id": 3740934,
+  "name": "(2016 BD15)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3740934",
+  "date": {
+    "$date": "2025-01-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 502,
+  "est_diameter_max": 1122,
+  "velocity": 58025,
+  "orbiting_body": "Earth",
+  "miss_distance": 186,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf78"
+  },
+  "id": 3617387,
+  "neo_id": 3617387,
+  "name": "(2012 VE46)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3617387",
+  "date": {
+    "$date": "2025-02-02T00:00:00.000Z"
+  },
+  "est_diameter_min": 795,
+  "est_diameter_max": 1778,
+  "velocity": 29540,
+  "orbiting_body": "Earth",
+  "miss_distance": 174,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf74"
+  },
+  "id": 54509624,
+  "neo_id": 54509624,
+  "name": "(2024 YU4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54509624",
+  "date": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "est_diameter_min": 1357,
+  "est_diameter_max": 3034,
+  "velocity": 65187,
+  "orbiting_body": "Earth",
+  "miss_distance": 29,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf77"
+  },
+  "id": 2326290,
+  "neo_id": 2326290,
+  "name": "326290 Akhenaten (1998 HE3)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2326290",
+  "date": {
+    "$date": "2025-02-03T00:00:00.000Z"
+  },
+  "est_diameter_min": 375,
+  "est_diameter_max": 840,
+  "velocity": 36117,
+  "orbiting_body": "Earth",
+  "miss_distance": 48,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf7f"
+  },
+  "id": 54524726,
+  "neo_id": 54524726,
+  "name": "(2025 FP10)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54524726",
+  "date": {
+    "$date": "2025-04-12T00:00:00.000Z"
+  },
+  "est_diameter_min": 1454,
+  "est_diameter_max": 3251,
+  "velocity": 31218,
+  "orbiting_body": "Earth",
+  "miss_distance": 11,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf81"
+  },
+  "id": 3551067,
+  "neo_id": 3551067,
+  "name": "(2010 VD72)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3551067",
+  "date": {
+    "$date": "2025-04-07T00:00:00.000Z"
+  },
+  "est_diameter_min": 429,
+  "est_diameter_max": 959,
+  "velocity": 27431,
+  "orbiting_body": "Earth",
+  "miss_distance": 110,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf80"
+  },
+  "id": 3152317,
+  "neo_id": 3152317,
+  "name": "(2003 GQ22)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3152317",
+  "date": {
+    "$date": "2025-04-07T00:00:00.000Z"
+  },
+  "est_diameter_min": 470,
+  "est_diameter_max": 1052,
+  "velocity": 19903,
+  "orbiting_body": "Earth",
+  "miss_distance": 20,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf82"
+  },
+  "id": 3407680,
+  "neo_id": 3407680,
+  "name": "(2008 FW6)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3407680",
+  "date": {
+    "$date": "2025-04-09T00:00:00.000Z"
+  },
+  "est_diameter_min": 550,
+  "est_diameter_max": 1230,
+  "velocity": 59923,
+  "orbiting_body": "Earth",
+  "miss_distance": 170,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf87"
+  },
+  "id": 3146499,
+  "neo_id": 3146499,
+  "name": "(2003 AF23)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3146499",
+  "date": {
+    "$date": "2025-01-18T00:00:00.000Z"
+  },
+  "est_diameter_min": 548,
+  "est_diameter_max": 1225,
+  "velocity": 67052,
+  "orbiting_body": "Earth",
+  "miss_distance": 186,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf89"
+  },
+  "id": 54506452,
+  "neo_id": 54506452,
+  "name": "(2024 WY70)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54506452",
+  "date": {
+    "$date": "2025-01-18T00:00:00.000Z"
+  },
+  "est_diameter_min": 568,
+  "est_diameter_max": 1271,
+  "velocity": 22745,
+  "orbiting_body": "Earth",
+  "miss_distance": 16,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf8b"
+  },
+  "id": 3728857,
+  "neo_id": 3728857,
+  "name": "(2015 SY16)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3728857",
+  "date": {
+    "$date": "2025-01-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 421,
+  "est_diameter_max": 942,
+  "velocity": 64125,
+  "orbiting_body": "Earth",
+  "miss_distance": 164,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf8a"
+  },
+  "id": 3558375,
+  "neo_id": 3558375,
+  "name": "(2011 EL11)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3558375",
+  "date": {
+    "$date": "2025-01-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 922,
+  "est_diameter_max": 2061,
+  "velocity": 49017,
+  "orbiting_body": "Earth",
+  "miss_distance": 26,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf88"
+  },
+  "id": 3744790,
+  "neo_id": 3744790,
+  "name": "(2016 DL)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3744790",
+  "date": {
+    "$date": "2025-01-18T00:00:00.000Z"
+  },
+  "est_diameter_min": 458,
+  "est_diameter_max": 1023,
+  "velocity": 45187,
+  "orbiting_body": "Earth",
+  "miss_distance": 70,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf8e"
+  },
+  "id": 3752780,
+  "neo_id": 3752780,
+  "name": "(2016 JW5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3752780",
+  "date": {
+    "$date": "2025-01-19T00:00:00.000Z"
+  },
+  "est_diameter_min": 346,
+  "est_diameter_max": 773,
+  "velocity": 31847,
+  "orbiting_body": "Earth",
+  "miss_distance": 24,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf97"
+  },
+  "id": 3606253,
+  "neo_id": 3606253,
+  "name": "(2012 OQ)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3606253",
+  "date": {
+    "$date": "2025-07-22T00:00:00.000Z"
+  },
+  "est_diameter_min": 367,
+  "est_diameter_max": 820,
+  "velocity": 30267,
+  "orbiting_body": "Earth",
+  "miss_distance": 21,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf98"
+  },
+  "id": 2836356,
+  "neo_id": 2836356,
+  "name": "836356 (2012 OQ)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2836356",
+  "date": {
+    "$date": "2025-07-22T00:00:00.000Z"
+  },
+  "est_diameter_min": 367,
+  "est_diameter_max": 820,
+  "velocity": 30267,
+  "orbiting_body": "Earth",
+  "miss_distance": 21,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf8c"
+  },
+  "id": 2265196,
+  "neo_id": 2265196,
+  "name": "265196 (2004 BW58)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2265196",
+  "date": {
+    "$date": "2025-01-22T00:00:00.000Z"
+  },
+  "est_diameter_min": 1495,
+  "est_diameter_max": 3342,
+  "velocity": 23484,
+  "orbiting_body": "Earth",
+  "miss_distance": 28,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf8d"
+  },
+  "id": 3145514,
+  "neo_id": 3145514,
+  "name": "(2003 AA3)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3145514",
+  "date": {
+    "$date": "2025-01-22T00:00:00.000Z"
+  },
+  "est_diameter_min": 795,
+  "est_diameter_max": 1778,
+  "velocity": 27018,
+  "orbiting_body": "Earth",
+  "miss_distance": 89,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf9b"
+  },
+  "id": 2101955,
+  "neo_id": 2101955,
+  "name": "101955 Bennu (1999 RQ36)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2101955",
+  "date": {
+    "$date": "2025-02-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 792,
+  "est_diameter_max": 1770,
+  "velocity": 37795,
+  "orbiting_body": "Earth",
+  "miss_distance": 152,
+  "is_sentry_object": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf9d"
+  },
+  "id": 3740494,
+  "neo_id": 3740494,
+  "name": "(2016 AF193)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3740494",
+  "date": {
+    "$date": "2025-02-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 342,
+  "est_diameter_max": 766,
+  "velocity": 14384,
+  "orbiting_body": "Earth",
+  "miss_distance": 55,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf9e"
+  },
+  "id": 54516843,
+  "neo_id": 54516843,
+  "name": "(2025 BT1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54516843",
+  "date": {
+    "$date": "2025-02-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 421,
+  "est_diameter_max": 942,
+  "velocity": 31619,
+  "orbiting_body": "Earth",
+  "miss_distance": 20,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdf9c"
+  },
+  "id": 2455176,
+  "neo_id": 2455176,
+  "name": "455176 (1999 VF22)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2455176",
+  "date": {
+    "$date": "2025-02-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 629,
+  "est_diameter_max": 1406,
+  "velocity": 52814,
+  "orbiting_body": "Earth",
+  "miss_distance": 27,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfa3"
+  },
+  "id": 54352572,
+  "neo_id": 54352572,
+  "name": "(2023 FC6)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54352572",
+  "date": {
+    "$date": "2025-05-03T00:00:00.000Z"
+  },
+  "est_diameter_min": 655,
+  "est_diameter_max": 1466,
+  "velocity": 25631,
+  "orbiting_body": "Earth",
+  "miss_distance": 25,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfa4"
+  },
+  "id": 3831479,
+  "neo_id": 3831479,
+  "name": "(2018 TF3)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3831479",
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "est_diameter_min": 699,
+  "est_diameter_max": 1563,
+  "velocity": 53456,
+  "orbiting_body": "Earth",
+  "miss_distance": 43,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfa5"
+  },
+  "id": 54239841,
+  "neo_id": 54239841,
+  "name": "(2022 BH1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54239841",
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "est_diameter_min": 574,
+  "est_diameter_max": 1282,
+  "velocity": 100953,
+  "orbiting_body": "Earth",
+  "miss_distance": 189,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfa6"
+  },
+  "id": 54199511,
+  "neo_id": 54199511,
+  "name": "(2021 RR23)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54199511",
+  "date": {
+    "$date": "2025-05-08T00:00:00.000Z"
+  },
+  "est_diameter_min": 686,
+  "est_diameter_max": 1535,
+  "velocity": 57719,
+  "orbiting_body": "Earth",
+  "miss_distance": 164,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfab"
+  },
+  "id": 3393169,
+  "neo_id": 3393169,
+  "name": "(2007 VD12)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3393169",
+  "date": {
+    "$date": "2025-05-30T00:00:00.000Z"
+  },
+  "est_diameter_min": 909,
+  "est_diameter_max": 2032,
+  "velocity": 39794,
+  "orbiting_body": "Earth",
+  "miss_distance": 37,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfad"
+  },
+  "id": 2390725,
+  "neo_id": 2390725,
+  "name": "390725 (2003 HB)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2390725",
+  "date": {
+    "$date": "2025-05-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 1006,
+  "est_diameter_max": 2249,
+  "velocity": 30123,
+  "orbiting_body": "Earth",
+  "miss_distance": 18,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfac"
+  },
+  "id": 2813899,
+  "neo_id": 2813899,
+  "name": "813899 (2007 VD12)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2813899",
+  "date": {
+    "$date": "2025-05-30T00:00:00.000Z"
+  },
+  "est_diameter_min": 909,
+  "est_diameter_max": 2032,
+  "velocity": 39794,
+  "orbiting_body": "Earth",
+  "miss_distance": 37,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfae"
+  },
+  "id": 2434633,
+  "neo_id": 2434633,
+  "name": "434633 (2005 WB1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2434633",
+  "date": {
+    "$date": "2025-05-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 629,
+  "est_diameter_max": 1406,
+  "velocity": 36424,
+  "orbiting_body": "Earth",
+  "miss_distance": 23,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfb1"
+  },
+  "id": 54534345,
+  "neo_id": 54534345,
+  "name": "(2025 LO)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54534345",
+  "date": {
+    "$date": "2025-05-27T00:00:00.000Z"
+  },
+  "est_diameter_min": 406,
+  "est_diameter_max": 908,
+  "velocity": 50328,
+  "orbiting_body": "Earth",
+  "miss_distance": 19,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfaf"
+  },
+  "id": 54533092,
+  "neo_id": 54533092,
+  "name": "(2025 KM1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54533092",
+  "date": {
+    "$date": "2025-05-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 523,
+  "est_diameter_max": 1170,
+  "velocity": 37648,
+  "orbiting_body": "Earth",
+  "miss_distance": 51,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfb0"
+  },
+  "id": 2468468,
+  "neo_id": 2468468,
+  "name": "468468 (2004 KH17)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2468468",
+  "date": {
+    "$date": "2025-05-27T00:00:00.000Z"
+  },
+  "est_diameter_min": 346,
+  "est_diameter_max": 773,
+  "velocity": 28872,
+  "orbiting_body": "Earth",
+  "miss_distance": 63,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfb2"
+  },
+  "id": 54213634,
+  "neo_id": 54213634,
+  "name": "(2021 UM5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54213634",
+  "date": {
+    "$date": "2025-05-26T00:00:00.000Z"
+  },
+  "est_diameter_min": 410,
+  "est_diameter_max": 916,
+  "velocity": 62985,
+  "orbiting_body": "Earth",
+  "miss_distance": 137,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfbb"
+  },
+  "id": 2154276,
+  "neo_id": 2154276,
+  "name": "154276 (2002 SY50)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2154276",
+  "date": {
+    "$date": "2025-05-15T00:00:00.000Z"
+  },
+  "est_diameter_min": 2621,
+  "est_diameter_max": 5862,
+  "velocity": 51313,
+  "orbiting_body": "Earth",
+  "miss_distance": 27,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfbe"
+  },
+  "id": 2612356,
+  "neo_id": 2612356,
+  "name": "612356 (2002 JX8)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2612356",
+  "date": {
+    "$date": "2025-05-09T00:00:00.000Z"
+  },
+  "est_diameter_min": 876,
+  "est_diameter_max": 1959,
+  "velocity": 11493,
+  "orbiting_body": "Earth",
+  "miss_distance": 11,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfbd"
+  },
+  "id": 3124996,
+  "neo_id": 3124996,
+  "name": "(2002 JX8)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3124996",
+  "date": {
+    "$date": "2025-05-09T00:00:00.000Z"
+  },
+  "est_diameter_min": 715,
+  "est_diameter_max": 1600,
+  "velocity": 11493,
+  "orbiting_body": "Earth",
+  "miss_distance": 11,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfbc"
+  },
+  "id": 3278078,
+  "neo_id": 3278078,
+  "name": "(2005 JU81)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3278078",
+  "date": {
+    "$date": "2025-05-15T00:00:00.000Z"
+  },
+  "est_diameter_min": 382,
+  "est_diameter_max": 855,
+  "velocity": 42628,
+  "orbiting_body": "Earth",
+  "miss_distance": 128,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfc6"
+  },
+  "id": 2513312,
+  "neo_id": 2513312,
+  "name": "513312 (2007 DM41)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2513312",
+  "date": {
+    "$date": "2025-03-04T00:00:00.000Z"
+  },
+  "est_diameter_min": 338,
+  "est_diameter_max": 755,
+  "velocity": 48500,
+  "orbiting_body": "Earth",
+  "miss_distance": 60,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfc5"
+  },
+  "id": 54322905,
+  "neo_id": 54322905,
+  "name": "(2022 UE28)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54322905",
+  "date": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "est_diameter_min": 475,
+  "est_diameter_max": 1062,
+  "velocity": 24787,
+  "orbiting_body": "Earth",
+  "miss_distance": 86,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfc7"
+  },
+  "id": 2535844,
+  "neo_id": 2535844,
+  "name": "535844 (2015 BY310)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2535844",
+  "date": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 365,
+  "est_diameter_max": 817,
+  "velocity": 17583,
+  "orbiting_body": "Earth",
+  "miss_distance": 10,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfc8"
+  },
+  "id": 3475238,
+  "neo_id": 3475238,
+  "name": "(2009 VZ)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3475238",
+  "date": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 449,
+  "est_diameter_max": 1005,
+  "velocity": 43013,
+  "orbiting_body": "Earth",
+  "miss_distance": 192,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfc4"
+  },
+  "id": 2523950,
+  "neo_id": 2523950,
+  "name": "523950 (1998 SZ27)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2523950",
+  "date": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "est_diameter_min": 806,
+  "est_diameter_max": 1803,
+  "velocity": 52077,
+  "orbiting_body": "Earth",
+  "miss_distance": 182,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfc3"
+  },
+  "id": 3653537,
+  "neo_id": 3653537,
+  "name": "(2013 VO5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3653537",
+  "date": {
+    "$date": "2025-02-28T00:00:00.000Z"
+  },
+  "est_diameter_min": 466,
+  "est_diameter_max": 1042,
+  "velocity": 64316,
+  "orbiting_body": "Earth",
+  "miss_distance": 70,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfd0"
+  },
+  "id": 3459429,
+  "neo_id": 3459429,
+  "name": "(2009 JR)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3459429",
+  "date": {
+    "$date": "2025-01-14T00:00:00.000Z"
+  },
+  "est_diameter_min": 456,
+  "est_diameter_max": 1019,
+  "velocity": 21907,
+  "orbiting_body": "Earth",
+  "miss_distance": 53,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfd1"
+  },
+  "id": 3730322,
+  "neo_id": 3730322,
+  "name": "(2015 TL178)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3730322",
+  "date": {
+    "$date": "2025-01-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 488,
+  "est_diameter_max": 1092,
+  "velocity": 39283,
+  "orbiting_body": "Earth",
+  "miss_distance": 129,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfd2"
+  },
+  "id": 3797861,
+  "neo_id": 3797861,
+  "name": "(2018 BM3)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3797861",
+  "date": {
+    "$date": "2025-01-10T00:00:00.000Z"
+  },
+  "est_diameter_min": 349,
+  "est_diameter_max": 780,
+  "velocity": 51096,
+  "orbiting_body": "Earth",
+  "miss_distance": 57,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfcf"
+  },
+  "id": 2506491,
+  "neo_id": 2506491,
+  "name": "506491 (2003 UW29)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2506491",
+  "date": {
+    "$date": "2025-01-14T00:00:00.000Z"
+  },
+  "est_diameter_min": 635,
+  "est_diameter_max": 1419,
+  "velocity": 60256,
+  "orbiting_body": "Earth",
+  "miss_distance": 45,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfd7"
+  },
+  "id": 2004034,
+  "neo_id": 2004034,
+  "name": "4034 Vishnu (1986 PA)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2004034",
+  "date": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "est_diameter_min": 1748,
+  "est_diameter_max": 3909,
+  "velocity": 26799,
+  "orbiting_body": "Earth",
+  "miss_distance": 61,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfd8"
+  },
+  "id": 3394072,
+  "neo_id": 3394072,
+  "name": "(2007 VZ137)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3394072",
+  "date": {
+    "$date": "2025-04-02T00:00:00.000Z"
+  },
+  "est_diameter_min": 417,
+  "est_diameter_max": 933,
+  "velocity": 61807,
+  "orbiting_body": "Earth",
+  "miss_distance": 141,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfd9"
+  },
+  "id": 2474163,
+  "neo_id": 2474163,
+  "name": "474163 (1999 SO5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2474163",
+  "date": {
+    "$date": "2025-04-03T00:00:00.000Z"
+  },
+  "est_diameter_min": 601,
+  "est_diameter_max": 1343,
+  "velocity": 16718,
+  "orbiting_body": "Earth",
+  "miss_distance": 27,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfda"
+  },
+  "id": 54519245,
+  "neo_id": 54519245,
+  "name": "(2025 BC10)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54519245",
+  "date": {
+    "$date": "2025-04-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 1160,
+  "est_diameter_max": 2594,
+  "velocity": 51277,
+  "orbiting_body": "Earth",
+  "miss_distance": 10,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfdf"
+  },
+  "id": 54244790,
+  "neo_id": 54244790,
+  "name": "(2022 CN1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54244790",
+  "date": {
+    "$date": "2025-01-29T00:00:00.000Z"
+  },
+  "est_diameter_min": 437,
+  "est_diameter_max": 977,
+  "velocity": 33883,
+  "orbiting_body": "Earth",
+  "miss_distance": 23,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfe2"
+  },
+  "id": 2613986,
+  "neo_id": 2613986,
+  "name": "613986 (2008 JG)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2613986",
+  "date": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 601,
+  "est_diameter_max": 1343,
+  "velocity": 49149,
+  "orbiting_body": "Earth",
+  "miss_distance": 162,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfe0"
+  },
+  "id": 3409964,
+  "neo_id": 3409964,
+  "name": "(2008 JG)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3409964",
+  "date": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 592,
+  "est_diameter_max": 1324,
+  "velocity": 49149,
+  "orbiting_body": "Earth",
+  "miss_distance": 162,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfe1"
+  },
+  "id": 3781359,
+  "neo_id": 3781359,
+  "name": "(2017 QC36)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3781359",
+  "date": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 632,
+  "est_diameter_max": 1413,
+  "velocity": 41409,
+  "orbiting_body": "Earth",
+  "miss_distance": 165,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfe9"
+  },
+  "id": 3145512,
+  "neo_id": 3145512,
+  "name": "(2003 AY2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3145512",
+  "date": {
+    "$date": "2025-06-22T00:00:00.000Z"
+  },
+  "est_diameter_min": 947,
+  "est_diameter_max": 2118,
+  "velocity": 35676,
+  "orbiting_body": "Earth",
+  "miss_distance": 14,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfee"
+  },
+  "id": 54534098,
+  "neo_id": 54534098,
+  "name": "(2025 KL14)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54534098",
+  "date": {
+    "$date": "2025-06-19T00:00:00.000Z"
+  },
+  "est_diameter_min": 477,
+  "est_diameter_max": 1067,
+  "velocity": 16822,
+  "orbiting_body": "Earth",
+  "miss_distance": 76,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfea"
+  },
+  "id": 2793349,
+  "neo_id": 2793349,
+  "name": "793349 (2003 AY2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2793349",
+  "date": {
+    "$date": "2025-06-22T00:00:00.000Z"
+  },
+  "est_diameter_min": 952,
+  "est_diameter_max": 2128,
+  "velocity": 35676,
+  "orbiting_body": "Earth",
+  "miss_distance": 14,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfe7"
+  },
+  "id": 2468005,
+  "neo_id": 2468005,
+  "name": "468005 (2012 XD112)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2468005",
+  "date": {
+    "$date": "2025-06-20T00:00:00.000Z"
+  },
+  "est_diameter_min": 504,
+  "est_diameter_max": 1127,
+  "velocity": 49879,
+  "orbiting_body": "Earth",
+  "miss_distance": 170,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfe8"
+  },
+  "id": 3825489,
+  "neo_id": 3825489,
+  "name": "(2018 MG7)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3825489",
+  "date": {
+    "$date": "2025-06-20T00:00:00.000Z"
+  },
+  "est_diameter_min": 468,
+  "est_diameter_max": 1047,
+  "velocity": 41329,
+  "orbiting_body": "Earth",
+  "miss_distance": 66,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfeb"
+  },
+  "id": 54537505,
+  "neo_id": 54537505,
+  "name": "(2025 MM89)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54537505",
+  "date": {
+    "$date": "2025-06-21T00:00:00.000Z"
+  },
+  "est_diameter_min": 477,
+  "est_diameter_max": 1067,
+  "velocity": 58680,
+  "orbiting_body": "Earth",
+  "miss_distance": 18,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfec"
+  },
+  "id": 2527715,
+  "neo_id": 2527715,
+  "name": "527715 (2007 YQ56)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2527715",
+  "date": {
+    "$date": "2025-06-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 892,
+  "est_diameter_max": 1995,
+  "velocity": 33075,
+  "orbiting_body": "Earth",
+  "miss_distance": 30,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfed"
+  },
+  "id": 54290699,
+  "neo_id": 54290699,
+  "name": "(2022 OL)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54290699",
+  "date": {
+    "$date": "2025-06-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 400,
+  "est_diameter_max": 895,
+  "velocity": 31115,
+  "orbiting_body": "Earth",
+  "miss_distance": 77,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdfef"
+  },
+  "id": 3765705,
+  "neo_id": 3765705,
+  "name": "(2016 XC18)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3765705",
+  "date": {
+    "$date": "2025-06-18T00:00:00.000Z"
+  },
+  "est_diameter_min": 354,
+  "est_diameter_max": 791,
+  "velocity": 39256,
+  "orbiting_body": "Earth",
+  "miss_distance": 31,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdff9"
+  },
+  "id": 54322868,
+  "neo_id": 54322868,
+  "name": "(2022 US21)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54322868",
+  "date": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "est_diameter_min": 370,
+  "est_diameter_max": 828,
+  "velocity": 38933,
+  "orbiting_body": "Earth",
+  "miss_distance": 116,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdffc"
+  },
+  "id": 2137126,
+  "neo_id": 2137126,
+  "name": "137126 (1999 CF9)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2137126",
+  "date": {
+    "$date": "2025-03-08T00:00:00.000Z"
+  },
+  "est_diameter_min": 2131,
+  "est_diameter_max": 4765,
+  "velocity": 41621,
+  "orbiting_body": "Earth",
+  "miss_distance": 21,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdffb"
+  },
+  "id": 3449591,
+  "neo_id": 3449591,
+  "name": "(2009 EP2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3449591",
+  "date": {
+    "$date": "2025-03-07T00:00:00.000Z"
+  },
+  "est_diameter_min": 415,
+  "est_diameter_max": 929,
+  "velocity": 31736,
+  "orbiting_body": "Earth",
+  "miss_distance": 138,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdffa"
+  },
+  "id": 2494658,
+  "neo_id": 2494658,
+  "name": "494658 (2000 UG11)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2494658",
+  "date": {
+    "$date": "2025-03-12T00:00:00.000Z"
+  },
+  "est_diameter_min": 629,
+  "est_diameter_max": 1406,
+  "velocity": 34990,
+  "orbiting_body": "Earth",
+  "miss_distance": 60,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0cdffd"
+  },
+  "id": 54378880,
+  "neo_id": 54378880,
+  "name": "(2023 QL7)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54378880",
+  "date": {
+    "$date": "2025-03-08T00:00:00.000Z"
+  },
+  "est_diameter_min": 623,
+  "est_diameter_max": 1393,
+  "velocity": 33520,
+  "orbiting_body": "Earth",
+  "miss_distance": 94,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce003"
+  },
+  "id": 54375474,
+  "neo_id": 54375474,
+  "name": "(2023 OQ)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54375474",
+  "date": {
+    "$date": "2025-08-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 372,
+  "est_diameter_max": 832,
+  "velocity": 31182,
+  "orbiting_body": "Earth",
+  "miss_distance": 95,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce005"
+  },
+  "id": 54527385,
+  "neo_id": 54527385,
+  "name": "(2025 HZ1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54527385",
+  "date": {
+    "$date": "2025-08-22T00:00:00.000Z"
+  },
+  "est_diameter_min": 390,
+  "est_diameter_max": 871,
+  "velocity": 34049,
+  "orbiting_body": "Earth",
+  "miss_distance": 48,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce004"
+  },
+  "id": 54535123,
+  "neo_id": 54535123,
+  "name": "(2025 MR1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54535123",
+  "date": {
+    "$date": "2025-08-21T00:00:00.000Z"
+  },
+  "est_diameter_min": 581,
+  "est_diameter_max": 1300,
+  "velocity": 18459,
+  "orbiting_body": "Earth",
+  "miss_distance": 22,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce006"
+  },
+  "id": 3681964,
+  "neo_id": 3681964,
+  "name": "(2014 PS59)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3681964",
+  "date": {
+    "$date": "2025-08-27T00:00:00.000Z"
+  },
+  "est_diameter_min": 662,
+  "est_diameter_max": 1479,
+  "velocity": 33387,
+  "orbiting_body": "Earth",
+  "miss_distance": 25,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce00c"
+  },
+  "id": 3276397,
+  "neo_id": 3276397,
+  "name": "(2005 GD60)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3276397",
+  "date": {
+    "$date": "2025-04-17T00:00:00.000Z"
+  },
+  "est_diameter_min": 399,
+  "est_diameter_max": 891,
+  "velocity": 49064,
+  "orbiting_body": "Earth",
+  "miss_distance": 147,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce00b"
+  },
+  "id": 54100193,
+  "neo_id": 54100193,
+  "name": "(2020 XD5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54100193",
+  "date": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "est_diameter_min": 952,
+  "est_diameter_max": 2128,
+  "velocity": 30404,
+  "orbiting_body": "Earth",
+  "miss_distance": 114,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce010"
+  },
+  "id": 3669253,
+  "neo_id": 3669253,
+  "name": "(2014 HQ124)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3669253",
+  "date": {
+    "$date": "2025-06-06T00:00:00.000Z"
+  },
+  "est_diameter_min": 1414,
+  "est_diameter_max": 3162,
+  "velocity": 33658,
+  "orbiting_body": "Earth",
+  "miss_distance": 28,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce00f"
+  },
+  "id": 2438908,
+  "neo_id": 2438908,
+  "name": "438908 (2009 XO)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2438908",
+  "date": {
+    "$date": "2025-06-04T00:00:00.000Z"
+  },
+  "est_diameter_min": 652,
+  "est_diameter_max": 1459,
+  "velocity": 56505,
+  "orbiting_body": "Earth",
+  "miss_distance": 172,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce011"
+  },
+  "id": 2162039,
+  "neo_id": 2162039,
+  "name": "162039 (1996 JG)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2162039",
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 1427,
+  "est_diameter_max": 3192,
+  "velocity": 33931,
+  "orbiting_body": "Earth",
+  "miss_distance": 66,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce012"
+  },
+  "id": 2419624,
+  "neo_id": 2419624,
+  "name": "419624 (2010 SO16)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2419624",
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 712,
+  "est_diameter_max": 1592,
+  "velocity": 39063,
+  "orbiting_body": "Earth",
+  "miss_distance": 187,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce013"
+  },
+  "id": 2424482,
+  "neo_id": 2424482,
+  "name": "424482 (2008 DG5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2424482",
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 1063,
+  "est_diameter_max": 2377,
+  "velocity": 13888,
+  "orbiting_body": "Earth",
+  "miss_distance": 9,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce014"
+  },
+  "id": 3591611,
+  "neo_id": 3591611,
+  "name": "(2011 YG6)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3591611",
+  "date": {
+    "$date": "2025-06-07T00:00:00.000Z"
+  },
+  "est_diameter_min": 528,
+  "est_diameter_max": 1180,
+  "velocity": 58888,
+  "orbiting_body": "Earth",
+  "miss_distance": 177,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce01f"
+  },
+  "id": 54524332,
+  "neo_id": 54524332,
+  "name": "(2025 FJ4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54524332",
+  "date": {
+    "$date": "2025-03-18T00:00:00.000Z"
+  },
+  "est_diameter_min": 563,
+  "est_diameter_max": 1259,
+  "velocity": 49333,
+  "orbiting_body": "Earth",
+  "miss_distance": 53,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce01b"
+  },
+  "id": 2462238,
+  "neo_id": 2462238,
+  "name": "462238 (2008 CN1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2462238",
+  "date": {
+    "$date": "2025-03-20T00:00:00.000Z"
+  },
+  "est_diameter_min": 643,
+  "est_diameter_max": 1439,
+  "velocity": 41059,
+  "orbiting_body": "Earth",
+  "miss_distance": 128,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce01d"
+  },
+  "id": 54075550,
+  "neo_id": 54075550,
+  "name": "(2020 UF2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54075550",
+  "date": {
+    "$date": "2025-03-16T00:00:00.000Z"
+  },
+  "est_diameter_min": 388,
+  "est_diameter_max": 867,
+  "velocity": 33425,
+  "orbiting_body": "Earth",
+  "miss_distance": 73,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce01e"
+  },
+  "id": 2303450,
+  "neo_id": 2303450,
+  "name": "303450 (2005 BY2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2303450",
+  "date": {
+    "$date": "2025-03-18T00:00:00.000Z"
+  },
+  "est_diameter_min": 690,
+  "est_diameter_max": 1542,
+  "velocity": 16218,
+  "orbiting_body": "Earth",
+  "miss_distance": 67,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce01c"
+  },
+  "id": 3758927,
+  "neo_id": 3758927,
+  "name": "(2016 RN1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3758927",
+  "date": {
+    "$date": "2025-03-14T00:00:00.000Z"
+  },
+  "est_diameter_min": 545,
+  "est_diameter_max": 1219,
+  "velocity": 38376,
+  "orbiting_body": "Earth",
+  "miss_distance": 77,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce020"
+  },
+  "id": 54522521,
+  "neo_id": 54522521,
+  "name": "(2025 CE13)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54522521",
+  "date": {
+    "$date": "2025-03-19T00:00:00.000Z"
+  },
+  "est_diameter_min": 456,
+  "est_diameter_max": 1019,
+  "velocity": 31646,
+  "orbiting_body": "Earth",
+  "miss_distance": 45,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce027"
+  },
+  "id": 2441987,
+  "neo_id": 2441987,
+  "name": "441987 (2010 NY65)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2441987",
+  "date": {
+    "$date": "2025-06-29T00:00:00.000Z"
+  },
+  "est_diameter_min": 466,
+  "est_diameter_max": 1042,
+  "velocity": 36870,
+  "orbiting_body": "Earth",
+  "miss_distance": 59,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce029"
+  },
+  "id": 3739011,
+  "neo_id": 3739011,
+  "name": "(2015 YU7)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3739011",
+  "date": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  "est_diameter_min": 462,
+  "est_diameter_max": 1033,
+  "velocity": 20261,
+  "orbiting_body": "Earth",
+  "miss_distance": 64,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce02c"
+  },
+  "id": 2786479,
+  "neo_id": 2786479,
+  "name": "786479 (2015 YU7)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2786479",
+  "date": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  "est_diameter_min": 462,
+  "est_diameter_max": 1033,
+  "velocity": 20261,
+  "orbiting_body": "Earth",
+  "miss_distance": 64,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce02b"
+  },
+  "id": 54499276,
+  "neo_id": 54499276,
+  "name": "(2024 UD26)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54499276",
+  "date": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  "est_diameter_min": 680,
+  "est_diameter_max": 1521,
+  "velocity": 20847,
+  "orbiting_body": "Earth",
+  "miss_distance": 17,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce02a"
+  },
+  "id": 3838104,
+  "neo_id": 3838104,
+  "name": "(2019 CH1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3838104",
+  "date": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  "est_diameter_min": 497,
+  "est_diameter_max": 1112,
+  "velocity": 85093,
+  "orbiting_body": "Earth",
+  "miss_distance": 172,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce02d"
+  },
+  "id": 54519692,
+  "neo_id": 54519692,
+  "name": "(2025 CH4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54519692",
+  "date": {
+    "$date": "2025-02-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 495,
+  "est_diameter_max": 1107,
+  "velocity": 70872,
+  "orbiting_body": "Earth",
+  "miss_distance": 9,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce037"
+  },
+  "id": 3692751,
+  "neo_id": 3692751,
+  "name": "(2014 TN17)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3692751",
+  "date": {
+    "$date": "2025-03-26T00:00:00.000Z"
+  },
+  "est_diameter_min": 437,
+  "est_diameter_max": 977,
+  "velocity": 48020,
+  "orbiting_body": "Earth",
+  "miss_distance": 13,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce036"
+  },
+  "id": 3740897,
+  "neo_id": 3740897,
+  "name": "(2016 BC14)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3740897",
+  "date": {
+    "$date": "2025-03-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 555,
+  "est_diameter_max": 1242,
+  "velocity": 42082,
+  "orbiting_body": "Earth",
+  "miss_distance": 174,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce033"
+  },
+  "id": 54178992,
+  "neo_id": 54178992,
+  "name": "(2021 PS2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54178992",
+  "date": {
+    "$date": "2025-03-22T00:00:00.000Z"
+  },
+  "est_diameter_min": 872,
+  "est_diameter_max": 1950,
+  "velocity": 25694,
+  "orbiting_body": "Earth",
+  "miss_distance": 26,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce034"
+  },
+  "id": 2618350,
+  "neo_id": 2618350,
+  "name": "618350 (2021 PS2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2618350",
+  "date": {
+    "$date": "2025-03-22T00:00:00.000Z"
+  },
+  "est_diameter_min": 917,
+  "est_diameter_max": 2051,
+  "velocity": 25694,
+  "orbiting_body": "Earth",
+  "miss_distance": 26,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce035"
+  },
+  "id": 2152754,
+  "neo_id": 2152754,
+  "name": "152754 (1999 GS6)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2152754",
+  "date": {
+    "$date": "2025-03-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 1249,
+  "est_diameter_max": 2793,
+  "velocity": 25456,
+  "orbiting_body": "Earth",
+  "miss_distance": 48,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce041"
+  },
+  "id": 54114211,
+  "neo_id": 54114211,
+  "name": "(2010 KD149)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54114211",
+  "date": {
+    "$date": "2025-05-18T00:00:00.000Z"
+  },
+  "est_diameter_min": 441,
+  "est_diameter_max": 986,
+  "velocity": 38604,
+  "orbiting_body": "Earth",
+  "miss_distance": 179,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce040"
+  },
+  "id": 3544935,
+  "neo_id": 3544935,
+  "name": "(2010 PW58)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3544935",
+  "date": {
+    "$date": "2025-05-18T00:00:00.000Z"
+  },
+  "est_diameter_min": 399,
+  "est_diameter_max": 891,
+  "velocity": 38604,
+  "orbiting_body": "Earth",
+  "miss_distance": 179,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce03e"
+  },
+  "id": 2613726,
+  "neo_id": 2613726,
+  "name": "613726 (2007 EF)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2613726",
+  "date": {
+    "$date": "2025-05-21T00:00:00.000Z"
+  },
+  "est_diameter_min": 470,
+  "est_diameter_max": 1052,
+  "velocity": 43670,
+  "orbiting_body": "Earth",
+  "miss_distance": 176,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce03d"
+  },
+  "id": 3370167,
+  "neo_id": 3370167,
+  "name": "(2007 EF)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3370167",
+  "date": {
+    "$date": "2025-05-21T00:00:00.000Z"
+  },
+  "est_diameter_min": 458,
+  "est_diameter_max": 1023,
+  "velocity": 43670,
+  "orbiting_body": "Earth",
+  "miss_distance": 176,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b1c06de4e45f0ce03f"
+  },
+  "id": 2387746,
+  "neo_id": 2387746,
+  "name": "387746 (2003 MH4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2387746",
+  "date": {
+    "$date": "2025-05-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 821,
+  "est_diameter_max": 1837,
+  "velocity": 18678,
+  "orbiting_body": "Earth",
+  "miss_distance": 17,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce04e"
+  },
+  "id": 2494710,
+  "neo_id": 2494710,
+  "name": "494710 (2005 MO13)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2494710",
+  "date": {
+    "$date": "2025-04-27T00:00:00.000Z"
+  },
+  "est_diameter_min": 617,
+  "est_diameter_max": 1380,
+  "velocity": 18727,
+  "orbiting_body": "Earth",
+  "miss_distance": 72,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce047"
+  },
+  "id": 2439437,
+  "neo_id": 2439437,
+  "name": "439437 (2013 NK4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2439437",
+  "date": {
+    "$date": "2025-04-23T00:00:00.000Z"
+  },
+  "est_diameter_min": 1427,
+  "est_diameter_max": 3192,
+  "velocity": 50474,
+  "orbiting_body": "Earth",
+  "miss_distance": 74,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce048"
+  },
+  "id": 54143414,
+  "neo_id": 54143414,
+  "name": "(2021 JY)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54143414",
+  "date": {
+    "$date": "2025-04-23T00:00:00.000Z"
+  },
+  "est_diameter_min": 1515,
+  "est_diameter_max": 3389,
+  "velocity": 48308,
+  "orbiting_body": "Earth",
+  "miss_distance": 75,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce04c"
+  },
+  "id": 2462959,
+  "neo_id": 2462959,
+  "name": "462959 (2011 DU)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2462959",
+  "date": {
+    "$date": "2025-04-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 530,
+  "est_diameter_max": 1186,
+  "velocity": 21215,
+  "orbiting_body": "Earth",
+  "miss_distance": 13,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce04b"
+  },
+  "id": 54502168,
+  "neo_id": 54502168,
+  "name": "(2024 WC15)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54502168",
+  "date": {
+    "$date": "2025-04-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 576,
+  "est_diameter_max": 1288,
+  "velocity": 29907,
+  "orbiting_body": "Earth",
+  "miss_distance": 70,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce04f"
+  },
+  "id": 54165395,
+  "neo_id": 54165395,
+  "name": "(2021 MB2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54165395",
+  "date": {
+    "$date": "2025-04-28T00:00:00.000Z"
+  },
+  "est_diameter_min": 460,
+  "est_diameter_max": 1028,
+  "velocity": 20153,
+  "orbiting_body": "Earth",
+  "miss_distance": 162,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce049"
+  },
+  "id": 3557843,
+  "neo_id": 3557843,
+  "name": "(2011 DV)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3557843",
+  "date": {
+    "$date": "2025-04-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 606,
+  "est_diameter_max": 1355,
+  "velocity": 14312,
+  "orbiting_body": "Earth",
+  "miss_distance": 52,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce04a"
+  },
+  "id": 3634388,
+  "neo_id": 3634388,
+  "name": "(2013 GR38)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3634388",
+  "date": {
+    "$date": "2025-04-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 354,
+  "est_diameter_max": 791,
+  "velocity": 39258,
+  "orbiting_body": "Earth",
+  "miss_distance": 38,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce04d"
+  },
+  "id": 2341843,
+  "neo_id": 2341843,
+  "name": "341843 (2008 EV5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2341843",
+  "date": {
+    "$date": "2025-04-27T00:00:00.000Z"
+  },
+  "est_diameter_min": 852,
+  "est_diameter_max": 1906,
+  "velocity": 16667,
+  "orbiting_body": "Earth",
+  "miss_distance": 68,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce05a"
+  },
+  "id": 2812769,
+  "neo_id": 2812769,
+  "name": "812769 (2005 VO5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2812769",
+  "date": {
+    "$date": "2025-07-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 917,
+  "est_diameter_max": 2051,
+  "velocity": 32161,
+  "orbiting_body": "Earth",
+  "miss_distance": 16,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce061"
+  },
+  "id": 3685808,
+  "neo_id": 3685808,
+  "name": "(2014 QX432)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3685808",
+  "date": {
+    "$date": "2025-07-07T00:00:00.000Z"
+  },
+  "est_diameter_min": 930,
+  "est_diameter_max": 2080,
+  "velocity": 45302,
+  "orbiting_body": "Earth",
+  "miss_distance": 26,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce060"
+  },
+  "id": 2456938,
+  "neo_id": 2456938,
+  "name": "456938 (2007 YV56)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2456938",
+  "date": {
+    "$date": "2025-07-07T00:00:00.000Z"
+  },
+  "est_diameter_min": 555,
+  "est_diameter_max": 1242,
+  "velocity": 31773,
+  "orbiting_body": "Earth",
+  "miss_distance": 68,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce059"
+  },
+  "id": 3299722,
+  "neo_id": 3299722,
+  "name": "(2005 VO5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3299722",
+  "date": {
+    "$date": "2025-07-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 974,
+  "est_diameter_max": 2178,
+  "velocity": 32161,
+  "orbiting_body": "Earth",
+  "miss_distance": 16,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce05d"
+  },
+  "id": 54239715,
+  "neo_id": 54239715,
+  "name": "(2022 BJ)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54239715",
+  "date": {
+    "$date": "2025-07-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 441,
+  "est_diameter_max": 986,
+  "velocity": 52887,
+  "orbiting_body": "Earth",
+  "miss_distance": 26,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce05e"
+  },
+  "id": 54337032,
+  "neo_id": 54337032,
+  "name": "(2022 YO6)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54337032",
+  "date": {
+    "$date": "2025-07-06T00:00:00.000Z"
+  },
+  "est_diameter_min": 393,
+  "est_diameter_max": 879,
+  "velocity": 46792,
+  "orbiting_body": "Earth",
+  "miss_distance": 103,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce05c"
+  },
+  "id": 2437844,
+  "neo_id": 2437844,
+  "name": "437844 (1999 MN)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2437844",
+  "date": {
+    "$date": "2025-07-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 548,
+  "est_diameter_max": 1225,
+  "velocity": 30385,
+  "orbiting_body": "Earth",
+  "miss_distance": 28,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce05f"
+  },
+  "id": 54537672,
+  "neo_id": 54537672,
+  "name": "(2025 ME90)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54537672",
+  "date": {
+    "$date": "2025-07-06T00:00:00.000Z"
+  },
+  "est_diameter_min": 545,
+  "est_diameter_max": 1219,
+  "velocity": 57141,
+  "orbiting_body": "Earth",
+  "miss_distance": 54,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce05b"
+  },
+  "id": 2403775,
+  "neo_id": 2403775,
+  "name": "403775 (2011 HS4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2403775",
+  "date": {
+    "$date": "2025-07-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 576,
+  "est_diameter_max": 1288,
+  "velocity": 68011,
+  "orbiting_body": "Earth",
+  "miss_distance": 118,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce062"
+  },
+  "id": 2839444,
+  "neo_id": 2839444,
+  "name": "839444 (2014 QX432)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2839444",
+  "date": {
+    "$date": "2025-07-07T00:00:00.000Z"
+  },
+  "est_diameter_min": 930,
+  "est_diameter_max": 2080,
+  "velocity": 45302,
+  "orbiting_body": "Earth",
+  "miss_distance": 26,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce06f"
+  },
+  "id": 3311964,
+  "neo_id": 3311964,
+  "name": "(2006 AM4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3311964",
+  "date": {
+    "$date": "2025-11-06T00:00:00.000Z"
+  },
+  "est_diameter_min": 381,
+  "est_diameter_max": 851,
+  "velocity": 65567,
+  "orbiting_body": "Earth",
+  "miss_distance": 105,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce06d"
+  },
+  "id": 2306383,
+  "neo_id": 2306383,
+  "name": "306383 (1993 VD)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2306383",
+  "date": {
+    "$date": "2025-11-03T00:00:00.000Z"
+  },
+  "est_diameter_min": 439,
+  "est_diameter_max": 982,
+  "velocity": 27052,
+  "orbiting_body": "Earth",
+  "miss_distance": 94,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce070"
+  },
+  "id": 3709286,
+  "neo_id": 3709286,
+  "name": "(2002 LX64)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3709286",
+  "date": {
+    "$date": "2025-11-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 502,
+  "est_diameter_max": 1122,
+  "velocity": 62456,
+  "orbiting_body": "Earth",
+  "miss_distance": 137,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce06e"
+  },
+  "id": 2138175,
+  "neo_id": 2138175,
+  "name": "138175 (2000 EE104)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2138175",
+  "date": {
+    "$date": "2025-11-06T00:00:00.000Z"
+  },
+  "est_diameter_min": 696,
+  "est_diameter_max": 1556,
+  "velocity": 14248,
+  "orbiting_body": "Earth",
+  "miss_distance": 48,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce072"
+  },
+  "id": 3559839,
+  "neo_id": 3559839,
+  "name": "(2011 EL51)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3559839",
+  "date": {
+    "$date": "2025-11-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 362,
+  "est_diameter_max": 809,
+  "velocity": 46374,
+  "orbiting_body": "Earth",
+  "miss_distance": 34,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce073"
+  },
+  "id": 3307228,
+  "neo_id": 3307228,
+  "name": "(2005 XT77)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3307228",
+  "date": {
+    "$date": "2025-11-08T00:00:00.000Z"
+  },
+  "est_diameter_min": 456,
+  "est_diameter_max": 1019,
+  "velocity": 23790,
+  "orbiting_body": "Earth",
+  "miss_distance": 104,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce07d"
+  },
+  "id": 54048828,
+  "neo_id": 54048828,
+  "name": "(2020 NK1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54048828",
+  "date": {
+    "$date": "2025-07-14T00:00:00.000Z"
+  },
+  "est_diameter_min": 1414,
+  "est_diameter_max": 3162,
+  "velocity": 90118,
+  "orbiting_body": "Earth",
+  "miss_distance": 168,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce07c"
+  },
+  "id": 2263976,
+  "neo_id": 2263976,
+  "name": "263976 (2009 KD5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2263976",
+  "date": {
+    "$date": "2025-07-13T00:00:00.000Z"
+  },
+  "est_diameter_min": 1873,
+  "est_diameter_max": 4188,
+  "velocity": 17766,
+  "orbiting_body": "Earth",
+  "miss_distance": 54,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce07b"
+  },
+  "id": 54266163,
+  "neo_id": 54266163,
+  "name": "(2022 FU3)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54266163",
+  "date": {
+    "$date": "2025-07-15T00:00:00.000Z"
+  },
+  "est_diameter_min": 458,
+  "est_diameter_max": 1023,
+  "velocity": 21178,
+  "orbiting_body": "Earth",
+  "miss_distance": 46,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce07e"
+  },
+  "id": 3789631,
+  "neo_id": 3789631,
+  "name": "(2017 WV13)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3789631",
+  "date": {
+    "$date": "2025-07-18T00:00:00.000Z"
+  },
+  "est_diameter_min": 502,
+  "est_diameter_max": 1122,
+  "velocity": 38736,
+  "orbiting_body": "Earth",
+  "miss_distance": 99,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce083"
+  },
+  "id": 54017234,
+  "neo_id": 54017234,
+  "name": "(2020 KR4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54017234",
+  "date": {
+    "$date": "2025-06-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 555,
+  "est_diameter_max": 1242,
+  "velocity": 71257,
+  "orbiting_body": "Earth",
+  "miss_distance": 34,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce088"
+  },
+  "id": 3038472,
+  "neo_id": 3038472,
+  "name": "(2000 LF3)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3038472",
+  "date": {
+    "$date": "2025-06-17T00:00:00.000Z"
+  },
+  "est_diameter_min": 415,
+  "est_diameter_max": 929,
+  "velocity": 32404,
+  "orbiting_body": "Earth",
+  "miss_distance": 19,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce085"
+  },
+  "id": 3825481,
+  "neo_id": 3825481,
+  "name": "(2018 MY6)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3825481",
+  "date": {
+    "$date": "2025-06-13T00:00:00.000Z"
+  },
+  "est_diameter_min": 462,
+  "est_diameter_max": 1033,
+  "velocity": 63675,
+  "orbiting_body": "Earth",
+  "miss_distance": 187,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce089"
+  },
+  "id": 3838020,
+  "neo_id": 3838020,
+  "name": "(2019 BT2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3838020",
+  "date": {
+    "$date": "2025-06-16T00:00:00.000Z"
+  },
+  "est_diameter_min": 693,
+  "est_diameter_max": 1549,
+  "velocity": 47312,
+  "orbiting_body": "Earth",
+  "miss_distance": 98,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce086"
+  },
+  "id": 54217964,
+  "neo_id": 54217964,
+  "name": "(2021 VO6)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54217964",
+  "date": {
+    "$date": "2025-06-15T00:00:00.000Z"
+  },
+  "est_diameter_min": 521,
+  "est_diameter_max": 1164,
+  "velocity": 36205,
+  "orbiting_body": "Earth",
+  "miss_distance": 34,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce087"
+  },
+  "id": 2433953,
+  "neo_id": 2433953,
+  "name": "433953 (1997 XR2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2433953",
+  "date": {
+    "$date": "2025-06-14T00:00:00.000Z"
+  },
+  "est_diameter_min": 571,
+  "est_diameter_max": 1277,
+  "velocity": 10998,
+  "orbiting_body": "Earth",
+  "miss_distance": 41,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce084"
+  },
+  "id": 54441878,
+  "neo_id": 54441878,
+  "name": "(2024 JR16)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54441878",
+  "date": {
+    "$date": "2025-06-10T00:00:00.000Z"
+  },
+  "est_diameter_min": 375,
+  "est_diameter_max": 840,
+  "velocity": 33117,
+  "orbiting_body": "Earth",
+  "miss_distance": 51,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce091"
+  },
+  "id": 2444004,
+  "neo_id": 2444004,
+  "name": "444004 (2004 AS1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2444004",
+  "date": {
+    "$date": "2025-08-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 662,
+  "est_diameter_max": 1479,
+  "velocity": 19998,
+  "orbiting_body": "Earth",
+  "miss_distance": 50,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce097"
+  },
+  "id": 3752785,
+  "neo_id": 3752785,
+  "name": "(2016 FG60)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3752785",
+  "date": {
+    "$date": "2025-11-12T00:00:00.000Z"
+  },
+  "est_diameter_min": 453,
+  "est_diameter_max": 1014,
+  "velocity": 46071,
+  "orbiting_body": "Earth",
+  "miss_distance": 175,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce093"
+  },
+  "id": 2428209,
+  "neo_id": 2428209,
+  "name": "428209 (2006 VC)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2428209",
+  "date": {
+    "$date": "2025-11-14T00:00:00.000Z"
+  },
+  "est_diameter_min": 825,
+  "est_diameter_max": 1845,
+  "velocity": 45902,
+  "orbiting_body": "Earth",
+  "miss_distance": 167,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce095"
+  },
+  "id": 3791243,
+  "neo_id": 3791243,
+  "name": "(2017 XA1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3791243",
+  "date": {
+    "$date": "2025-11-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 479,
+  "est_diameter_max": 1072,
+  "velocity": 30545,
+  "orbiting_body": "Earth",
+  "miss_distance": 145,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce094"
+  },
+  "id": 2348306,
+  "neo_id": 2348306,
+  "name": "348306 (2005 AY28)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2348306",
+  "date": {
+    "$date": "2025-11-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 427,
+  "est_diameter_max": 955,
+  "velocity": 32105,
+  "orbiting_body": "Earth",
+  "miss_distance": 57,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce096"
+  },
+  "id": 54137809,
+  "neo_id": 54137809,
+  "name": "(2021 GN16)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54137809",
+  "date": {
+    "$date": "2025-11-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 393,
+  "est_diameter_max": 879,
+  "velocity": 56087,
+  "orbiting_body": "Earth",
+  "miss_distance": 180,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0a2"
+  },
+  "id": 54547733,
+  "neo_id": 54547733,
+  "name": "(2025 SW10)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54547733",
+  "date": {
+    "$date": "2025-09-15T00:00:00.000Z"
+  },
+  "est_diameter_min": 670,
+  "est_diameter_max": 1498,
+  "velocity": 48173,
+  "orbiting_body": "Earth",
+  "miss_distance": 73,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce09d"
+  },
+  "id": 54524508,
+  "neo_id": 54524508,
+  "name": "(2025 FR5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54524508",
+  "date": {
+    "$date": "2025-09-14T00:00:00.000Z"
+  },
+  "est_diameter_min": 677,
+  "est_diameter_max": 1514,
+  "velocity": 29300,
+  "orbiting_body": "Earth",
+  "miss_distance": 60,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce09e"
+  },
+  "id": 54541107,
+  "neo_id": 54541107,
+  "name": "(2025 QR1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54541107",
+  "date": {
+    "$date": "2025-09-14T00:00:00.000Z"
+  },
+  "est_diameter_min": 386,
+  "est_diameter_max": 863,
+  "velocity": 19567,
+  "orbiting_body": "Earth",
+  "miss_distance": 20,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0a1"
+  },
+  "id": 3467394,
+  "neo_id": 3467394,
+  "name": "(2009 SG18)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3467394",
+  "date": {
+    "$date": "2025-09-15T00:00:00.000Z"
+  },
+  "est_diameter_min": 2634,
+  "est_diameter_max": 5889,
+  "velocity": 76801,
+  "orbiting_body": "Earth",
+  "miss_distance": 44,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0a0"
+  },
+  "id": 3082930,
+  "neo_id": 3082930,
+  "name": "(2001 SY269)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3082930",
+  "date": {
+    "$date": "2025-09-17T00:00:00.000Z"
+  },
+  "est_diameter_min": 437,
+  "est_diameter_max": 977,
+  "velocity": 61262,
+  "orbiting_body": "Earth",
+  "miss_distance": 142,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0a3"
+  },
+  "id": 2385605,
+  "neo_id": 2385605,
+  "name": "385605 (2005 EJ225)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2385605",
+  "date": {
+    "$date": "2025-09-21T00:00:00.000Z"
+  },
+  "est_diameter_min": 1388,
+  "est_diameter_max": 3105,
+  "velocity": 49005,
+  "orbiting_body": "Earth",
+  "miss_distance": 71,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0a4"
+  },
+  "id": 3761549,
+  "neo_id": 3761549,
+  "name": "(2016 UJ31)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3761549",
+  "date": {
+    "$date": "2025-09-20T00:00:00.000Z"
+  },
+  "est_diameter_min": 1113,
+  "est_diameter_max": 2489,
+  "velocity": 39942,
+  "orbiting_body": "Earth",
+  "miss_distance": 59,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce09f"
+  },
+  "id": 54525863,
+  "neo_id": 54525863,
+  "name": "(2025 FA22)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54525863",
+  "date": {
+    "$date": "2025-09-18T00:00:00.000Z"
+  },
+  "est_diameter_min": 408,
+  "est_diameter_max": 912,
+  "velocity": 24126,
+  "orbiting_body": "Earth",
+  "miss_distance": 2,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0ae"
+  },
+  "id": 54017196,
+  "neo_id": 54017196,
+  "name": "(2020 KO3)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54017196",
+  "date": {
+    "$date": "2025-09-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 799,
+  "est_diameter_max": 1787,
+  "velocity": 23354,
+  "orbiting_body": "Earth",
+  "miss_distance": 62,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0af"
+  },
+  "id": 2826387,
+  "neo_id": 2826387,
+  "name": "826387 (2020 KO3)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2826387",
+  "date": {
+    "$date": "2025-09-05T00:00:00.000Z"
+  },
+  "est_diameter_min": 799,
+  "est_diameter_max": 1787,
+  "velocity": 23354,
+  "orbiting_body": "Earth",
+  "miss_distance": 62,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0ad"
+  },
+  "id": 54465556,
+  "neo_id": 54465556,
+  "name": "(2024 NO5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54465556",
+  "date": {
+    "$date": "2025-09-01T00:00:00.000Z"
+  },
+  "est_diameter_min": 632,
+  "est_diameter_max": 1413,
+  "velocity": 22695,
+  "orbiting_body": "Earth",
+  "miss_distance": 40,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0b0"
+  },
+  "id": 3014109,
+  "neo_id": 3014109,
+  "name": "(1998 SH2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3014109",
+  "date": {
+    "$date": "2025-08-30T00:00:00.000Z"
+  },
+  "est_diameter_min": 579,
+  "est_diameter_max": 1294,
+  "velocity": 38699,
+  "orbiting_body": "Earth",
+  "miss_distance": 8,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0b8"
+  },
+  "id": 54548708,
+  "neo_id": 54548708,
+  "name": "(2025 ST20)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54548708",
+  "date": {
+    "$date": "2025-09-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 401,
+  "est_diameter_max": 896,
+  "velocity": 19253,
+  "orbiting_body": "Earth",
+  "miss_distance": 46,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0b9"
+  },
+  "id": 3781301,
+  "neo_id": 3781301,
+  "name": "(2017 QY34)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3781301",
+  "date": {
+    "$date": "2025-09-07T00:00:00.000Z"
+  },
+  "est_diameter_min": 568,
+  "est_diameter_max": 1271,
+  "velocity": 61617,
+  "orbiting_body": "Earth",
+  "miss_distance": 160,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0b7"
+  },
+  "id": 54178641,
+  "neo_id": 54178641,
+  "name": "(2021 NT14)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54178641",
+  "date": {
+    "$date": "2025-09-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 635,
+  "est_diameter_max": 1419,
+  "velocity": 39899,
+  "orbiting_body": "Earth",
+  "miss_distance": 129,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0b6"
+  },
+  "id": 3788903,
+  "neo_id": 3788903,
+  "name": "(2017 VD)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3788903",
+  "date": {
+    "$date": "2025-09-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 584,
+  "est_diameter_max": 1306,
+  "velocity": 45857,
+  "orbiting_body": "Earth",
+  "miss_distance": 178,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0b5"
+  },
+  "id": 3451790,
+  "neo_id": 3451790,
+  "name": "(2009 FF)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3451790",
+  "date": {
+    "$date": "2025-09-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 359,
+  "est_diameter_max": 802,
+  "velocity": 28915,
+  "orbiting_body": "Earth",
+  "miss_distance": 7,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0ba"
+  },
+  "id": 3046125,
+  "neo_id": 3046125,
+  "name": "(2000 QV7)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3046125",
+  "date": {
+    "$date": "2025-09-08T00:00:00.000Z"
+  },
+  "est_diameter_min": 427,
+  "est_diameter_max": 955,
+  "velocity": 66317,
+  "orbiting_body": "Earth",
+  "miss_distance": 177,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0c1"
+  },
+  "id": 3752106,
+  "neo_id": 3752106,
+  "name": "(2016 HL)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3752106",
+  "date": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  },
+  "est_diameter_min": 956,
+  "est_diameter_max": 2138,
+  "velocity": 68479,
+  "orbiting_body": "Earth",
+  "miss_distance": 181,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0c3"
+  },
+  "id": 3605576,
+  "neo_id": 3605576,
+  "name": "(2012 LR1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3605576",
+  "date": {
+    "$date": "2025-12-11T00:00:00.000Z"
+  },
+  "est_diameter_min": 690,
+  "est_diameter_max": 1542,
+  "velocity": 57495,
+  "orbiting_body": "Earth",
+  "miss_distance": 34,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0c7"
+  },
+  "id": 3879725,
+  "neo_id": 3879725,
+  "name": "(2019 UT6)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3879725",
+  "date": {
+    "$date": "2025-11-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 360,
+  "est_diameter_max": 805,
+  "velocity": 28155,
+  "orbiting_body": "Earth",
+  "miss_distance": 6,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0c8"
+  },
+  "id": 54087860,
+  "neo_id": 54087860,
+  "name": "(2020 VZ5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54087860",
+  "date": {
+    "$date": "2025-11-27T00:00:00.000Z"
+  },
+  "est_diameter_min": 530,
+  "est_diameter_max": 1186,
+  "velocity": 27875,
+  "orbiting_body": "Earth",
+  "miss_distance": 43,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0c9"
+  },
+  "id": 3394543,
+  "neo_id": 3394543,
+  "name": "(2007 VM184)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3394543",
+  "date": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "est_diameter_min": 550,
+  "est_diameter_max": 1230,
+  "velocity": 44778,
+  "orbiting_body": "Earth",
+  "miss_distance": 13,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0ca"
+  },
+  "id": 3836942,
+  "neo_id": 3836942,
+  "name": "(2018 YH)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3836942",
+  "date": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "est_diameter_min": 399,
+  "est_diameter_max": 891,
+  "velocity": 16551,
+  "orbiting_body": "Earth",
+  "miss_distance": 167,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0d1"
+  },
+  "id": 3703073,
+  "neo_id": 3703073,
+  "name": "(2014 YR15)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3703073",
+  "date": {
+    "$date": "2025-12-07T00:00:00.000Z"
+  },
+  "est_diameter_min": 447,
+  "est_diameter_max": 1000,
+  "velocity": 18618,
+  "orbiting_body": "Earth",
+  "miss_distance": 41,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0d0"
+  },
+  "id": 3553704,
+  "neo_id": 3553704,
+  "name": "(2010 XA68)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3553704",
+  "date": {
+    "$date": "2025-12-04T00:00:00.000Z"
+  },
+  "est_diameter_min": 364,
+  "est_diameter_max": 813,
+  "velocity": 69888,
+  "orbiting_body": "Earth",
+  "miss_distance": 86,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0d2"
+  },
+  "id": 2533722,
+  "neo_id": 2533722,
+  "name": "533722 (2014 NE52)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2533722",
+  "date": {
+    "$date": "2025-12-03T00:00:00.000Z"
+  },
+  "est_diameter_min": 1998,
+  "est_diameter_max": 4467,
+  "velocity": 27865,
+  "orbiting_body": "Earth",
+  "miss_distance": 41,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0d3"
+  },
+  "id": 2531944,
+  "neo_id": 2531944,
+  "name": "531944 (2013 CU83)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2531944",
+  "date": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "est_diameter_min": 473,
+  "est_diameter_max": 1057,
+  "velocity": 16028,
+  "orbiting_body": "Earth",
+  "miss_distance": 162,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0cf"
+  },
+  "id": 3445538,
+  "neo_id": 3445538,
+  "name": "(2009 BE81)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3445538",
+  "date": {
+    "$date": "2025-12-04T00:00:00.000Z"
+  },
+  "est_diameter_min": 500,
+  "est_diameter_max": 1117,
+  "velocity": 33763,
+  "orbiting_body": "Earth",
+  "miss_distance": 161,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0d5"
+  },
+  "id": 54169406,
+  "neo_id": 54169406,
+  "name": "(2021 NQ5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54169406",
+  "date": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "est_diameter_min": 518,
+  "est_diameter_max": 1159,
+  "velocity": 21559,
+  "orbiting_body": "Earth",
+  "miss_distance": 59,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0d4"
+  },
+  "id": 3005806,
+  "neo_id": 3005806,
+  "name": "(1983 LC)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3005806",
+  "date": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "est_diameter_min": 1123,
+  "est_diameter_max": 2512,
+  "velocity": 73720,
+  "orbiting_body": "Earth",
+  "miss_distance": 192,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0d8"
+  },
+  "id": 54287659,
+  "neo_id": 54287659,
+  "name": "(2022 MN)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54287659",
+  "date": {
+    "$date": "2025-12-09T00:00:00.000Z"
+  },
+  "est_diameter_min": 433,
+  "est_diameter_max": 968,
+  "velocity": 49650,
+  "orbiting_body": "Earth",
+  "miss_distance": 89,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0d6"
+  },
+  "id": 2612012,
+  "neo_id": 2612012,
+  "name": "612012 (1983 LC)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2612012",
+  "date": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "est_diameter_min": 1113,
+  "est_diameter_max": 2489,
+  "velocity": 73720,
+  "orbiting_body": "Earth",
+  "miss_distance": 192,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0d7"
+  },
+  "id": 2679885,
+  "neo_id": 2679885,
+  "name": "679885 (2021 NQ5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2679885",
+  "date": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "est_diameter_min": 516,
+  "est_diameter_max": 1154,
+  "velocity": 21559,
+  "orbiting_body": "Earth",
+  "miss_distance": 59,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0d9"
+  },
+  "id": 2297418,
+  "neo_id": 2297418,
+  "name": "297418 (2000 SP43)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2297418",
+  "date": {
+    "$date": "2025-12-08T00:00:00.000Z"
+  },
+  "est_diameter_min": 1724,
+  "est_diameter_max": 3855,
+  "velocity": 32987,
+  "orbiting_body": "Earth",
+  "miss_distance": 73,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0da"
+  },
+  "id": 3553986,
+  "neo_id": 3553986,
+  "name": "(2010 XP69)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3553986",
+  "date": {
+    "$date": "2025-12-08T00:00:00.000Z"
+  },
+  "est_diameter_min": 617,
+  "est_diameter_max": 1380,
+  "velocity": 38887,
+  "orbiting_body": "Earth",
+  "miss_distance": 178,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0e7"
+  },
+  "id": 3707694,
+  "neo_id": 3707694,
+  "name": "(2015 BL311)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3707694",
+  "date": {
+    "$date": "2025-12-26T00:00:00.000Z"
+  },
+  "est_diameter_min": 550,
+  "est_diameter_max": 1230,
+  "velocity": 40204,
+  "orbiting_body": "Earth",
+  "miss_distance": 139,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0e8"
+  },
+  "id": 2382406,
+  "neo_id": 2382406,
+  "name": "382406 (1996 AJ1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2382406",
+  "date": {
+    "$date": "2025-12-23T00:00:00.000Z"
+  },
+  "est_diameter_min": 671,
+  "est_diameter_max": 1500,
+  "velocity": 36415,
+  "orbiting_body": "Earth",
+  "miss_distance": 194,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0ea"
+  },
+  "id": 3837719,
+  "neo_id": 3837719,
+  "name": "(2019 AP6)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3837719",
+  "date": {
+    "$date": "2025-12-22T00:00:00.000Z"
+  },
+  "est_diameter_min": 502,
+  "est_diameter_max": 1122,
+  "velocity": 21596,
+  "orbiting_body": "Earth",
+  "miss_distance": 41,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0eb"
+  },
+  "id": 54545437,
+  "neo_id": 54545437,
+  "name": "(2025 RD5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54545437",
+  "date": {
+    "$date": "2025-12-22T00:00:00.000Z"
+  },
+  "est_diameter_min": 795,
+  "est_diameter_max": 1777,
+  "velocity": 30177,
+  "orbiting_body": "Earth",
+  "miss_distance": 52,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0ee"
+  },
+  "id": 54514905,
+  "neo_id": 54514905,
+  "name": "(2025 AK2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54514905",
+  "date": {
+    "$date": "2025-12-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 391,
+  "est_diameter_max": 875,
+  "velocity": 23436,
+  "orbiting_body": "Earth",
+  "miss_distance": 75,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0ef"
+  },
+  "id": 2488789,
+  "neo_id": 2488789,
+  "name": "488789 (2004 XK50)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2488789",
+  "date": {
+    "$date": "2025-12-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 1302,
+  "est_diameter_max": 2911,
+  "velocity": 63844,
+  "orbiting_body": "Earth",
+  "miss_distance": 21,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0f0"
+  },
+  "id": 3141540,
+  "neo_id": 3141540,
+  "name": "(2002 VP69)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3141540",
+  "date": {
+    "$date": "2025-12-20T00:00:00.000Z"
+  },
+  "est_diameter_min": 2294,
+  "est_diameter_max": 5129,
+  "velocity": 35683,
+  "orbiting_body": "Earth",
+  "miss_distance": 95,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0e9"
+  },
+  "id": 3330155,
+  "neo_id": 3330155,
+  "name": "(2006 HV5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3330155",
+  "date": {
+    "$date": "2025-12-23T00:00:00.000Z"
+  },
+  "est_diameter_min": 1144,
+  "est_diameter_max": 2559,
+  "velocity": 51907,
+  "orbiting_body": "Earth",
+  "miss_distance": 184,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0ed"
+  },
+  "id": 3753371,
+  "neo_id": 3753371,
+  "name": "(2016 JU33)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3753371",
+  "date": {
+    "$date": "2025-12-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 563,
+  "est_diameter_max": 1259,
+  "velocity": 36446,
+  "orbiting_body": "Earth",
+  "miss_distance": 56,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0ec"
+  },
+  "id": 3102728,
+  "neo_id": 3102728,
+  "name": "(2002 AY1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3102728",
+  "date": {
+    "$date": "2025-12-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 590,
+  "est_diameter_max": 1318,
+  "velocity": 35090,
+  "orbiting_body": "Earth",
+  "miss_distance": 131,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b2c06de4e45f0ce0f1"
+  },
+  "id": 3596845,
+  "neo_id": 3596845,
+  "name": "(2012 BJ86)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3596845",
+  "date": {
+    "$date": "2025-12-19T00:00:00.000Z"
+  },
+  "est_diameter_min": 479,
+  "est_diameter_max": 1072,
+  "velocity": 27941,
+  "orbiting_body": "Earth",
+  "miss_distance": 73,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce0fd"
+  },
+  "id": 3433365,
+  "neo_id": 3433365,
+  "name": "(2008 UE7)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3433365",
+  "date": {
+    "$date": "2025-11-17T00:00:00.000Z"
+  },
+  "est_diameter_min": 725,
+  "est_diameter_max": 1622,
+  "velocity": 51395,
+  "orbiting_body": "Earth",
+  "miss_distance": 180,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce103"
+  },
+  "id": 54544430,
+  "neo_id": 54544430,
+  "name": "(2025 RK1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54544430",
+  "date": {
+    "$date": "2025-11-18T00:00:00.000Z"
+  },
+  "est_diameter_min": 623,
+  "est_diameter_max": 1393,
+  "velocity": 27153,
+  "orbiting_body": "Earth",
+  "miss_distance": 30,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce102"
+  },
+  "id": 54408397,
+  "neo_id": 54408397,
+  "name": "(2023 WK3)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54408397",
+  "date": {
+    "$date": "2025-11-18T00:00:00.000Z"
+  },
+  "est_diameter_min": 706,
+  "est_diameter_max": 1578,
+  "velocity": 41306,
+  "orbiting_body": "Earth",
+  "miss_distance": 74,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce0fe"
+  },
+  "id": 3774099,
+  "neo_id": 3774099,
+  "name": "(2017 HX3)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3774099",
+  "date": {
+    "$date": "2025-11-22T00:00:00.000Z"
+  },
+  "est_diameter_min": 369,
+  "est_diameter_max": 824,
+  "velocity": 32460,
+  "orbiting_body": "Earth",
+  "miss_distance": 35,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce0ff"
+  },
+  "id": 3553169,
+  "neo_id": 3553169,
+  "name": "(2010 XC15)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3553169",
+  "date": {
+    "$date": "2025-11-21T00:00:00.000Z"
+  },
+  "est_diameter_min": 441,
+  "est_diameter_max": 986,
+  "velocity": 57402,
+  "orbiting_body": "Earth",
+  "miss_distance": 189,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce100"
+  },
+  "id": 2516155,
+  "neo_id": 2516155,
+  "name": "516155 (2016 DP)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2516155",
+  "date": {
+    "$date": "2025-11-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 829,
+  "est_diameter_max": 1854,
+  "velocity": 37327,
+  "orbiting_body": "Earth",
+  "miss_distance": 12,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce101"
+  },
+  "id": 2003361,
+  "neo_id": 2003361,
+  "name": "3361 Orpheus (1982 HR)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2003361",
+  "date": {
+    "$date": "2025-11-19T00:00:00.000Z"
+  },
+  "est_diameter_min": 1068,
+  "est_diameter_max": 2388,
+  "velocity": 20304,
+  "orbiting_body": "Earth",
+  "miss_distance": 15,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce10d"
+  },
+  "id": 54016365,
+  "neo_id": 54016365,
+  "name": "(2020 FA5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54016365",
+  "date": {
+    "$date": "2025-10-26T00:00:00.000Z"
+  },
+  "est_diameter_min": 516,
+  "est_diameter_max": 1154,
+  "velocity": 59357,
+  "orbiting_body": "Earth",
+  "miss_distance": 16,
+  "is_sentry_object": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce10b"
+  },
+  "id": 2434196,
+  "neo_id": 2434196,
+  "name": "434196 (2003 HG2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2434196",
+  "date": {
+    "$date": "2025-10-27T00:00:00.000Z"
+  },
+  "est_diameter_min": 419,
+  "est_diameter_max": 938,
+  "velocity": 24455,
+  "orbiting_body": "Earth",
+  "miss_distance": 17,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce10c"
+  },
+  "id": 2208023,
+  "neo_id": 2208023,
+  "name": "208023 (1999 AQ10)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2208023",
+  "date": {
+    "$date": "2025-10-26T00:00:00.000Z"
+  },
+  "est_diameter_min": 686,
+  "est_diameter_max": 1535,
+  "velocity": 36145,
+  "orbiting_body": "Earth",
+  "miss_distance": 115,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce112"
+  },
+  "id": 3388312,
+  "neo_id": 3388312,
+  "name": "(2007 TR24)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3388312",
+  "date": {
+    "$date": "2025-10-21T00:00:00.000Z"
+  },
+  "est_diameter_min": 693,
+  "est_diameter_max": 1549,
+  "velocity": 55155,
+  "orbiting_body": "Earth",
+  "miss_distance": 74,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce113"
+  },
+  "id": 2144900,
+  "neo_id": 2144900,
+  "name": "144900 (2004 VG64)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2144900",
+  "date": {
+    "$date": "2025-10-23T00:00:00.000Z"
+  },
+  "est_diameter_min": 1917,
+  "est_diameter_max": 4286,
+  "velocity": 63698,
+  "orbiting_body": "Earth",
+  "miss_distance": 33,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce111"
+  },
+  "id": 3387793,
+  "neo_id": 3387793,
+  "name": "(2007 TS19)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3387793",
+  "date": {
+    "$date": "2025-10-16T00:00:00.000Z"
+  },
+  "est_diameter_min": 629,
+  "est_diameter_max": 1406,
+  "velocity": 25323,
+  "orbiting_body": "Earth",
+  "miss_distance": 134,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce118"
+  },
+  "id": 2220839,
+  "neo_id": 2220839,
+  "name": "220839 (2004 VA)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2220839",
+  "date": {
+    "$date": "2025-12-30T00:00:00.000Z"
+  },
+  "est_diameter_min": 2822,
+  "est_diameter_max": 6310,
+  "velocity": 27483,
+  "orbiting_body": "Earth",
+  "miss_distance": 37,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce117"
+  },
+  "id": 2164400,
+  "neo_id": 2164400,
+  "name": "164400 (2005 GN59)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2164400",
+  "date": {
+    "$date": "2025-12-27T00:00:00.000Z"
+  },
+  "est_diameter_min": 2914,
+  "est_diameter_max": 6517,
+  "velocity": 20568,
+  "orbiting_body": "Earth",
+  "miss_distance": 41,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce11b"
+  },
+  "id": 2480883,
+  "neo_id": 2480883,
+  "name": "480883 (2001 YE4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2480883",
+  "date": {
+    "$date": "2026-01-01T00:00:00.000Z"
+  },
+  "est_diameter_min": 571,
+  "est_diameter_max": 1277,
+  "velocity": 52318,
+  "orbiting_body": "Earth",
+  "miss_distance": 125,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce119"
+  },
+  "id": 3699506,
+  "neo_id": 3699506,
+  "name": "(2014 WE365)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3699506",
+  "date": {
+    "$date": "2026-01-02T00:00:00.000Z"
+  },
+  "est_diameter_min": 506,
+  "est_diameter_max": 1132,
+  "velocity": 36997,
+  "orbiting_body": "Earth",
+  "miss_distance": 25,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce11c"
+  },
+  "id": 3825138,
+  "neo_id": 3825138,
+  "name": "(2018 LC3)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3825138",
+  "date": {
+    "$date": "2026-01-01T00:00:00.000Z"
+  },
+  "est_diameter_min": 1515,
+  "est_diameter_max": 3389,
+  "velocity": 69727,
+  "orbiting_body": "Earth",
+  "miss_distance": 65,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce11a"
+  },
+  "id": 2422686,
+  "neo_id": 2422686,
+  "name": "422686 (2000 AC6)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2422686",
+  "date": {
+    "$date": "2026-01-01T00:00:00.000Z"
+  },
+  "est_diameter_min": 412,
+  "est_diameter_max": 921,
+  "velocity": 14806,
+  "orbiting_body": "Earth",
+  "miss_distance": 44,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce11d"
+  },
+  "id": 2620103,
+  "neo_id": 2620103,
+  "name": "620103 (2018 LC3)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2620103",
+  "date": {
+    "$date": "2026-01-01T00:00:00.000Z"
+  },
+  "est_diameter_min": 1522,
+  "est_diameter_max": 3404,
+  "velocity": 69727,
+  "orbiting_body": "Earth",
+  "miss_distance": 65,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce126"
+  },
+  "id": 3346460,
+  "neo_id": 3346460,
+  "name": "(2006 SS134)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3346460",
+  "date": {
+    "$date": "2025-10-01T00:00:00.000Z"
+  },
+  "est_diameter_min": 441,
+  "est_diameter_max": 986,
+  "velocity": 42423,
+  "orbiting_body": "Earth",
+  "miss_distance": 32,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce125"
+  },
+  "id": 54203006,
+  "neo_id": 54203006,
+  "name": "(2021 SZ4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54203006",
+  "date": {
+    "$date": "2025-10-04T00:00:00.000Z"
+  },
+  "est_diameter_min": 702,
+  "est_diameter_max": 1570,
+  "velocity": 99595,
+  "orbiting_body": "Earth",
+  "miss_distance": 187,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce127"
+  },
+  "id": 54016489,
+  "neo_id": 54016489,
+  "name": "(2020 GA2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54016489",
+  "date": {
+    "$date": "2025-10-07T00:00:00.000Z"
+  },
+  "est_diameter_min": 516,
+  "est_diameter_max": 1154,
+  "velocity": 67189,
+  "orbiting_body": "Earth",
+  "miss_distance": 116,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce128"
+  },
+  "id": 54131736,
+  "neo_id": 54131736,
+  "name": "(2021 ED5)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54131736",
+  "date": {
+    "$date": "2025-10-06T00:00:00.000Z"
+  },
+  "est_diameter_min": 810,
+  "est_diameter_max": 1811,
+  "velocity": 49618,
+  "orbiting_body": "Earth",
+  "miss_distance": 28,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce130"
+  },
+  "id": 3010679,
+  "neo_id": 3010679,
+  "name": "(1997 QK1)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3010679",
+  "date": {
+    "$date": "2025-08-20T00:00:00.000Z"
+  },
+  "est_diameter_min": 763,
+  "est_diameter_max": 1706,
+  "velocity": 21994,
+  "orbiting_body": "Earth",
+  "miss_distance": 8,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce12f"
+  },
+  "id": 54539063,
+  "neo_id": 54539063,
+  "name": "(2025 NH3)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54539063",
+  "date": {
+    "$date": "2025-08-19T00:00:00.000Z"
+  },
+  "est_diameter_min": 872,
+  "est_diameter_max": 1950,
+  "velocity": 50503,
+  "orbiting_body": "Earth",
+  "miss_distance": 22,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce131"
+  },
+  "id": 54423312,
+  "neo_id": 54423312,
+  "name": "(2024 BR4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54423312",
+  "date": {
+    "$date": "2025-08-20T00:00:00.000Z"
+  },
+  "est_diameter_min": 458,
+  "est_diameter_max": 1023,
+  "velocity": 22422,
+  "orbiting_body": "Earth",
+  "miss_distance": 94,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce12e"
+  },
+  "id": 3740915,
+  "neo_id": 3740915,
+  "name": "(2016 BP14)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3740915",
+  "date": {
+    "$date": "2025-08-19T00:00:00.000Z"
+  },
+  "est_diameter_min": 563,
+  "est_diameter_max": 1259,
+  "velocity": 38815,
+  "orbiting_body": "Earth",
+  "miss_distance": 25,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce12d"
+  },
+  "id": 54178640,
+  "neo_id": 54178640,
+  "name": "(2021 PH2)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54178640",
+  "date": {
+    "$date": "2025-08-17T00:00:00.000Z"
+  },
+  "est_diameter_min": 425,
+  "est_diameter_max": 951,
+  "velocity": 71025,
+  "orbiting_body": "Earth",
+  "miss_distance": 167,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce138"
+  },
+  "id": 2035107,
+  "neo_id": 2035107,
+  "name": "35107 (1991 VH)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2035107",
+  "date": {
+    "$date": "2025-08-02T00:00:00.000Z"
+  },
+  "est_diameter_min": 3686,
+  "est_diameter_max": 8242,
+  "velocity": 19395,
+  "orbiting_body": "Earth",
+  "miss_distance": 30,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce137"
+  },
+  "id": 3284923,
+  "neo_id": 3284923,
+  "name": "(2005 OX)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3284923",
+  "date": {
+    "$date": "2025-08-01T00:00:00.000Z"
+  },
+  "est_diameter_min": 662,
+  "est_diameter_max": 1479,
+  "velocity": 54775,
+  "orbiting_body": "Earth",
+  "miss_distance": 66,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce13c"
+  },
+  "id": 3666783,
+  "neo_id": 3666783,
+  "name": "(2014 FO47)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3666783",
+  "date": {
+    "$date": "2025-07-29T00:00:00.000Z"
+  },
+  "est_diameter_min": 792,
+  "est_diameter_max": 1770,
+  "velocity": 36805,
+  "orbiting_body": "Earth",
+  "miss_distance": 188,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce13d"
+  },
+  "id": 3709711,
+  "neo_id": 3709711,
+  "name": "(2015 BP515)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3709711",
+  "date": {
+    "$date": "2025-07-29T00:00:00.000Z"
+  },
+  "est_diameter_min": 523,
+  "est_diameter_max": 1170,
+  "velocity": 25343,
+  "orbiting_body": "Earth",
+  "miss_distance": 67,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce13b"
+  },
+  "id": 2475534,
+  "neo_id": 2475534,
+  "name": "475534 (2006 TS7)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2475534",
+  "date": {
+    "$date": "2025-07-28T00:00:00.000Z"
+  },
+  "est_diameter_min": 490,
+  "est_diameter_max": 1097,
+  "velocity": 57895,
+  "orbiting_body": "Earth",
+  "miss_distance": 109,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce13a"
+  },
+  "id": 3591722,
+  "neo_id": 3591722,
+  "name": "(2011 YJ28)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3591722",
+  "date": {
+    "$date": "2025-08-02T00:00:00.000Z"
+  },
+  "est_diameter_min": 475,
+  "est_diameter_max": 1062,
+  "velocity": 45862,
+  "orbiting_body": "Earth",
+  "miss_distance": 167,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce139"
+  },
+  "id": 2450300,
+  "neo_id": 2450300,
+  "name": "450300 (2004 QD14)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2450300",
+  "date": {
+    "$date": "2025-08-02T00:00:00.000Z"
+  },
+  "est_diameter_min": 638,
+  "est_diameter_max": 1426,
+  "velocity": 34253,
+  "orbiting_body": "Earth",
+  "miss_distance": 74,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce13e"
+  },
+  "id": 2442037,
+  "neo_id": 2442037,
+  "name": "442037 (2010 PR66)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2442037",
+  "date": {
+    "$date": "2025-07-30T00:00:00.000Z"
+  },
+  "est_diameter_min": 1226,
+  "est_diameter_max": 2742,
+  "velocity": 46011,
+  "orbiting_body": "Earth",
+  "miss_distance": 70,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce148"
+  },
+  "id": 3014110,
+  "neo_id": 3014110,
+  "name": "(1998 SU4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3014110",
+  "date": {
+    "$date": "2025-09-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 453,
+  "est_diameter_max": 1014,
+  "velocity": 70323,
+  "orbiting_body": "Earth",
+  "miss_distance": 134,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce14b"
+  },
+  "id": 3581669,
+  "neo_id": 3581669,
+  "name": "(2011 TX8)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3581669",
+  "date": {
+    "$date": "2025-09-24T00:00:00.000Z"
+  },
+  "est_diameter_min": 347,
+  "est_diameter_max": 776,
+  "velocity": 84726,
+  "orbiting_body": "Earth",
+  "miss_distance": 190,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce151"
+  },
+  "id": 2358471,
+  "neo_id": 2358471,
+  "name": "358471 (2007 NS4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2358471",
+  "date": {
+    "$date": "2025-09-26T00:00:00.000Z"
+  },
+  "est_diameter_min": 1260,
+  "est_diameter_max": 2819,
+  "velocity": 27505,
+  "orbiting_body": "Earth",
+  "miss_distance": 49,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce14a"
+  },
+  "id": 54541542,
+  "neo_id": 54541542,
+  "name": "(2025 QA4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54541542",
+  "date": {
+    "$date": "2025-09-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 359,
+  "est_diameter_max": 802,
+  "velocity": 24682,
+  "orbiting_body": "Earth",
+  "miss_distance": 30,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce14c"
+  },
+  "id": 54297314,
+  "neo_id": 54297314,
+  "name": "(2021 KA17)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54297314",
+  "date": {
+    "$date": "2025-09-23T00:00:00.000Z"
+  },
+  "est_diameter_min": 362,
+  "est_diameter_max": 809,
+  "velocity": 42215,
+  "orbiting_body": "Earth",
+  "miss_distance": 107,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce14d"
+  },
+  "id": 54308092,
+  "neo_id": 54308092,
+  "name": "(2022 SW12)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54308092",
+  "date": {
+    "$date": "2025-09-23T00:00:00.000Z"
+  },
+  "est_diameter_min": 518,
+  "est_diameter_max": 1159,
+  "velocity": 39424,
+  "orbiting_body": "Earth",
+  "miss_distance": 15,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce14e"
+  },
+  "id": 3335049,
+  "neo_id": 3335049,
+  "name": "(2006 KN89)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3335049",
+  "date": {
+    "$date": "2025-09-22T00:00:00.000Z"
+  },
+  "est_diameter_min": 437,
+  "est_diameter_max": 977,
+  "velocity": 22832,
+  "orbiting_body": "Earth",
+  "miss_distance": 56,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce149"
+  },
+  "id": 3559599,
+  "neo_id": 3559599,
+  "name": "(2011 EO40)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3559599",
+  "date": {
+    "$date": "2025-09-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 369,
+  "est_diameter_max": 824,
+  "velocity": 27216,
+  "orbiting_body": "Earth",
+  "miss_distance": 30,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce14f"
+  },
+  "id": 2152664,
+  "neo_id": 2152664,
+  "name": "152664 (1998 FW4)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2152664",
+  "date": {
+    "$date": "2025-09-29T00:00:00.000Z"
+  },
+  "est_diameter_min": 1011,
+  "est_diameter_max": 2260,
+  "velocity": 41621,
+  "orbiting_body": "Earth",
+  "miss_distance": 10,
+  "is_sentry_object": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e948b3c06de4e45f0ce147"
+  },
+  "id": 2350523,
+  "neo_id": 2350523,
+  "name": "350523 (2000 EA14)",
+  "info": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2350523",
+  "date": {
+    "$date": "2025-09-25T00:00:00.000Z"
+  },
+  "est_diameter_min": 511,
+  "est_diameter_max": 1143,
+  "velocity": 9904,
+  "orbiting_body": "Earth",
+  "miss_distance": 27,
+  "is_sentry_object": false,
+  "__v": 0
+}]
