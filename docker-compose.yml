@@ -1,18 +1,61 @@
-version: "3"
+version: "3.8"
+
+# --- SERVICES DEFINITION ---
 services:
+  # 1. THE WEB APPLICATION (Frontend/API)
   app:
-    container_name: pha
+    container_name: pha_api
     restart: always
-    build: .
+    # Assumes your main web app Dockerfile is named 'Dockerfile' in the root
+    build: . 
     ports:
+      # EXPOSING THE WEB APP PORT: Host Port 80 -> Container Port 3000
       - "80:3000"
-    links:
+    depends_on:
       - mongo
+    environment:
+      # API connection string uses the service name 'mongo' and security credentials
+      - MONGO_URI=mongodb://user:password@mongo:27017/pha_db
+      - API_KEY=${NASA_API_KEY}
+    # NOTE: The 'links' directive is deprecated and replaced by 'depends_on'
+
+  # 2. THE DATA WORKER (Runs nasa_pha_worker.js once)
+  worker:
+    container_name: pha_worker
+    # Use the new Dockerfile we created
+    build: 
+      context: .
+      dockerfile: Dockerfile.worker 
+    # Execute the script immediately upon container start
+    command: node nasa_pha_worker.js 
+    # Only runs when started, does not restart unless explicitly told to
+    restart: "no" 
+    depends_on:
+      - mongo
+    environment:
+      # Worker connection string, same credentials
+      - MONGO_URI=mongodb://user:password@mongo:27017/pha_db
+      - API_KEY=${NASA_API_KEY}
+
+  # 3. THE MONGODB DATABASE (Now Secure and Persistent)
   mongo:
     container_name: mongo
-    image: mongo
+    image: mongo:latest
     restart: always
+    environment:
+      # **SECURITY FIX:** Enable authentication with root credentials
+      MONGO_INITDB_ROOT_USERNAME: user
+      MONGO_INITDB_ROOT_PASSWORD: password
+      # Define the name of the database the services will connect to
+      MONGO_INITDB_DATABASE: pha_db
+    # **PERSISTENCE FIX:** Use a named volume to guarantee data is saved outside the container
     volumes:
-      -  /data:/data/db
+      - mongo_data:/data/db 
     ports:
+      # Exposing for local admin tools (like MongoDB Compass). 
+      # REMOVE THIS LINE (or restrict it with a firewall) in production!
       - "27017:27017"
+
+# --- VOLUME DEFINITION ---
+volumes:
+  mongo_data:
