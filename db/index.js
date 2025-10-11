@@ -1,14 +1,9 @@
 const mongoose = require("mongoose");
 require('dotenv').config();
 
-// CRITICAL FIX: Use the secure MONGO_URI environment variable
 const dbUrl = process.env.MONGO_URI || 'mongodb://localhost:27017/PHA'; 
-// If MONGO_URI is defined (by Docker Compose), use it. Otherwise, fall back to localhost.
 
-// Connect to MongoDB
 mongoose.connect(dbUrl, {
-  // These options are now default in modern Mongoose and can often be omitted, 
-  // but it's good practice to ensure compatibility.
   useUnifiedTopology: true,  
   useNewUrlParser: true,
 })
@@ -17,9 +12,8 @@ mongoose.connect(dbUrl, {
 
 
 // --- Schema Definition ---
-
 const phaSchema = mongoose.Schema({
-  id:  {type: Number, unique: true}, // Ensures no duplicate asteroid IDs
+  id:  {type: Number, unique: true},
   neo_id: Number,
   name: String,
   info: String,
@@ -32,8 +26,7 @@ const phaSchema = mongoose.Schema({
   is_sentry_object: Boolean,
 });
 
-// The model is named 'PHA' and uses the collection 'phas'
-const Pha = mongoose.model('PHA', phaSchema, 'phas'); 
+const Pha = mongoose.model('PHA', phaSchema, 'asteriods'); 
 
 module.exports = {
   Pha,

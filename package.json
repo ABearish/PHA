@@ -8,7 +8,7 @@
     "worker": "node nasa_pha_worker.js",
     "build": "webpack --mode production",
     "build:watch": "npm run build -- --watch",
-    "populate": "node ./server/populate.js"
+    "populate": "node ./server/nasa_pha_worker.js"
   },
   "repository": {
     "type": "git",

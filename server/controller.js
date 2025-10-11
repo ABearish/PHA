@@ -17,7 +17,6 @@ module.exports = {
   getPhaYTD: async (req, res) => {
     try {
       const results = await models.getYTD();
-      // YTD count returns an array like [{ pha_count: 45 }]
       res.status(200).json(results);
     } catch (error) {
       console.error("CONTROLLER ERROR (getPhaYTD):", error.message);
@@ -27,7 +26,6 @@ module.exports = {
 
   // Retrieve PHAs within a custom range
   getCustom: async (req, res) => {
-    // NOTE: req.params is correct for route params like /custom/start/end
     const { start, end } = req.params; 
     
     try {

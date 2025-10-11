@@ -20,7 +20,6 @@ export function phaReducer(state, action) {
     case 'UPDATE_PHA_LIST':
       return { ...state, phaList: action.payload, loading: false };
     case 'GET_YTD':
-      // The API returns an array like [{ pha_count: X }]
       const count = action.payload?.[0]?.pha_count || 0;
       return { ...state, ytdCount: count, loading: false };
     case 'UPDATE_CUSTOM':

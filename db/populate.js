@@ -1,43 +1,33 @@
 const axios = require("axios");
+require('dotenv').config({path:"../.env"}); 
 
-// Assuming the db setup file exports Pha model and mongoose connection
-const { Pha, mongoose } = require("../db/index"); 
 
-// --- Helper Function: Implements Promise-based delay for reliable retries ---
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-
 /**
  * Fetches PHA data from NASA API for a 7-day period with retry logic.
  * @param {string} startDate - Start date (YYYY-MM-DD)
  * @param {string} endDate - End date (YYYY-MM-DD)
  * @returns {Promise<Array>} Array of saved PHA documents or a promise for a retry.
- */
-require('dotenv').config({path:"../.env"}); 
+*/
 
+const { Pha, mongoose } = require("../db/index"); 
 const API_KEY = process.env.NASA_API_KEY; 
-
 const getPHAFrApi = async (startDate, endDate) => {
   const apiUrl = `https://api.nasa.gov/neo/rest/v1/feed?start_date=${startDate}&end_date=${endDate}&api_key=${API_KEY}`;
-  console.log(apiUrl)
   const maxRetries = 3;
   let attempts = 0;
-
+  
   while (attempts < maxRetries) {
     try {
+      console.log(apiUrl)
       const response = await axios.get(apiUrl);
       const nearEarthObjects = response.data["near_earth_objects"];
-
-      // 1. Get all dates (keys) from the response data
       const dates = Object.keys(nearEarthObjects);
-
-      // 2. Use Promise.all and flatMap to process all dates in parallel
-      // and flatten the result into one array of promises
       const promises = dates.flatMap(date => {
-        // Find and process potentially hazardous asteroids for the current date
+
         return findAndProcessPHAs(nearEarthObjects[date], date);
       });
 
-      // 3. Await all saving promises and return the final results
       const results = await Promise.all(promises);
       return results.filter(result => result && result !== 'error'); // Filter out null/errors
 
@@ -45,13 +35,12 @@ const getPHAFrApi = async (startDate, endDate) => {
       attempts++;
       const status = err.response ? err.response.status : 'Network Error';
       const statusText = err.response ? err.response.statusText : 'Unknown';
-
       console.log(
         `[ATTEMPT ${attempts}/${maxRetries}] Failed: ${status} - ${statusText}. Retrying in 2 seconds...`,
         `Dates: ${startDate} to ${endDate}`
       );
       
-      // If we are at the last attempt, throw the error to halt the process
+      // we are at the last attempt, throw the error to halt the process
       if (attempts === maxRetries) {
         console.error(`Max retries reached for ${startDate}. Aborting.`);
         throw new Error(`Failed to fetch data after ${maxRetries} attempts.`);
@@ -95,7 +84,8 @@ const addPHA = async (phaData) => {
   // Using destructuring and null-checking for safer property access
   const { results, date } = phaData;
 
-  if (Object.values(results).length) {
+  if (Object.values(results) !== undefined && Object.values(results).length) {
+    console.log(results)
     const phaInstance = new Pha({
       id: parseInt(results.id),
       neo_id: parseInt(results.neo_reference_id),
@@ -129,7 +119,6 @@ const addPHA = async (phaData) => {
 };
 
 // --- Execution Loop ---
-
 const populateDataBase = async () => {
   console.log("Starting NASA NEO data population...");
   let year = 2025;
@@ -144,14 +133,11 @@ const populateDataBase = async () => {
     
     // Check if the end date crosses into 2023, and adjust the loop exit logic if necessary
     if (start.getFullYear() !== year) break; 
-    
     const startDateString = start.toISOString().slice(0, 10);
     const endDateString = end.toISOString().slice(0, 10);
 
     // Push the promise returned by the async function
     promised.push(getPHAFrApi(startDateString, endDateString));
-
-    // Move to the next 8-day block
     days += 8; 
   }
 
@@ -168,3 +154,5 @@ const populateDataBase = async () => {
   }
 };
 populateDataBase()
+
+module.exports = {addPHA}

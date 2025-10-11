@@ -13,7 +13,7 @@ const TrackerList = ({ trackerList, dispatch }) => {
                         key={pha.id} 
                         pha={pha} 
                         isTracking={true}
-                        onTrack={() => {}} // Disabled when viewing tracker list
+                        onTrack={() => {}} 
                         onRemove={(id) => dispatch({ type: 'REMOVE_TRACK_PHA', payload: id })}
                     />
                 )) : (

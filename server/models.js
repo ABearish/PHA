@@ -10,12 +10,11 @@ const retrieve = async () => {
       {
         $match: {
           date: {
-            $gt: new Date(Date.now()), // Greater than now
-            $lte: threeDay,           // Less than or equal to 3 days from now
+            $gt: new Date(Date.now()),
+            $lte: threeDay,           
           },
         },
       },
-      // Sorting is crucial for display, but ensure you have an index on 'date'
       { $sort: { date: 1 } }, 
     ]);
   } catch (err) {
@@ -32,7 +31,6 @@ const retrieve = async () => {
 
 const retrieveCustom = async (start, end) => {
   try {
-    // Input validation: Ensure dates are valid before querying
     const startDate = new Date(start);
     const endDate = new Date(end);
 
@@ -78,7 +76,6 @@ const getYTD = async () => {
     ]);
   } catch (err) {
     console.error("MODEL ERROR (getYTD):", err);
-    // Returning 0 on failure here might mask errors, better to throw and let controller handle status 500.
     throw err; 
   }
 };
