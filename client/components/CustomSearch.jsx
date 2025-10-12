@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import PhaCard from "./PhaCard";
 
+// Default value = today for input
 const today = new Date();
 const fullYear = today.getFullYear();
 let month = (today.getMonth()+1);
@@ -29,7 +30,6 @@ const CustomSearch = ({ customList, dispatch, trackerList, fetchCustomList }) =>
           className="bg-gray-700 text-white p-2 rounded-lg border border-gray-600 focus:ring-blue-500 focus:border-blue-500"
           max="2025-12-31"
           min="2025-01-01"
-          defaultValue={formattedDate}
       
         />
         <input
@@ -39,7 +39,6 @@ const CustomSearch = ({ customList, dispatch, trackerList, fetchCustomList }) =>
           className="bg-gray-700 text-white p-2 rounded-lg border border-gray-600 focus:ring-blue-500 focus:border-blue-500"
           max="2025-12-31"
           min="2025-01-01"
-          defaultValue={formattedDate}
         />
         <button
           onClick={handleSearch}

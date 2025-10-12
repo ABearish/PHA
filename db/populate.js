@@ -1,31 +1,36 @@
 const axios = require("axios");
 require('dotenv').config({path:"../.env"}); 
-
+const json_data = require('../db/data/data.json') || []
 
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 /**
  * Fetches PHA data from NASA API for a 7-day period with retry logic.
- * @param {string} startDate - Start date (YYYY-MM-DD)
- * @param {string} endDate - End date (YYYY-MM-DD)
+ * @param {string} start_date - Start date (YYYY-MM-DD)
+ * @param {string} end_date - End date (YYYY-MM-DD)
  * @returns {Promise<Array>} Array of saved PHA documents or a promise for a retry.
 */
 
 const { Pha, mongoose } = require("../db/index"); 
+const get_pha_from_api = async (start_date, end_date) => {
 const API_KEY = process.env.NASA_API_KEY; 
-const getPHAFrApi = async (startDate, endDate) => {
-  const apiUrl = `https://api.nasa.gov/neo/rest/v1/feed?start_date=${startDate}&end_date=${endDate}&api_key=${API_KEY}`;
-  const maxRetries = 3;
+  
+  if (!API_KEY && json_data) {
+    console.log(`No API key given, will now attempt to populate database from JSON file`)
+    add_pha_to_db(json_data)
+    return;
+  } 
+  
+  const api_url = `https://api.nasa.gov/neo/rest/v1/feed?start_date=${start_date}&end_date=${end_date}&api_key=${API_KEY}`;
+  const max_retries = 3;
   let attempts = 0;
   
-  while (attempts < maxRetries) {
+  while (attempts < max_retries) {
     try {
-      console.log(apiUrl)
-      const response = await axios.get(apiUrl);
-      const nearEarthObjects = response.data["near_earth_objects"];
-      const dates = Object.keys(nearEarthObjects);
+      const response = await axios.get(api_url);
+      const near_earth_objects = response.data["near_earth_objects"];
+      const dates = Object.keys(near_earth_objects);
       const promises = dates.flatMap(date => {
-
-        return findAndProcessPHAs(nearEarthObjects[date], date);
+        return find_and_process_phas(near_earth_objects[date], date);
       });
 
       const results = await Promise.all(promises);
@@ -34,16 +39,16 @@ const getPHAFrApi = async (startDate, endDate) => {
     } catch (err) {
       attempts++;
       const status = err.response ? err.response.status : 'Network Error';
-      const statusText = err.response ? err.response.statusText : 'Unknown';
+      const status_text = err.response ? err.response.statusText : 'Unknown';
       console.log(
-        `[ATTEMPT ${attempts}/${maxRetries}] Failed: ${status} - ${statusText}. Retrying in 2 seconds...`,
-        `Dates: ${startDate} to ${endDate}`
+        `[ATTEMPT ${attempts}/${max_retries}] Failed: ${status} - ${status_text}. Retrying in 2 seconds...`,
+        `Dates: ${start_date} to ${end_date}`
       );
       
       // we are at the last attempt, throw the error to halt the process
-      if (attempts === maxRetries) {
-        console.error(`Max retries reached for ${startDate}. Aborting.`);
-        throw new Error(`Failed to fetch data after ${maxRetries} attempts.`);
+      if (attempts === max_retries) {
+        console.error(`Max retries reached for ${start_date}. Aborting.`);
+        throw new Error(`Failed to fetch data after ${max_retries} attempts.`);
       }
 
       // Delay execution before the next loop iteration (retry)
@@ -59,14 +64,14 @@ const getPHAFrApi = async (startDate, endDate) => {
  * @param {string} date - Date string for the observation.
  * @returns {Array<Promise>} Array of promises for the addPHA function.
  */
-const findAndProcessPHAs = (neoArr, date) => {
+const find_and_process_phas = (neoArr, date) => {
   return neoArr.map(neo => {
     if (neo.is_potentially_hazardous_asteroid) {
-      const phaData = {
+      const pha_data = {
         date: date,
         results: neo
       };
-      return addPHA(phaData);
+      return add_pha_to_db(pha_data);
     }
     // Return null for non-hazardous objects
     return null;
@@ -76,33 +81,31 @@ const findAndProcessPHAs = (neoArr, date) => {
 
 /**
  * Converts raw API data into a Mongoose model and saves it.
- * @param {Object} phaData - Processed data containing the NEO and date.
+ * @param {Object} pha_data - Processed data containing the NEO and date.
  * @returns {Promise<Object|string>} Mongoose saved instance or an error string.
  */
-const addPHA = async (phaData) => {
-  console.log(phaData)
-  // Using destructuring and null-checking for safer property access
-  const { results, date } = phaData;
-
+const add_pha_to_db = async (pha_data) => {
+  const { results, date } = pha_data;
   if (Object.values(results) !== undefined && Object.values(results).length) {
-    console.log(results)
-    const phaInstance = new Pha({
+    const pha_instance = new Pha({
       id: parseInt(results.id),
       neo_id: parseInt(results.neo_reference_id),
       name: results.name,
       info: results.nasa_jpl_url,
       date: new Date(date),
-      // Clean, explicit float parsing and fixed-point conversion
+     
       est_diameter_min: parseFloat(
         results.estimated_diameter.feet.estimated_diameter_min
       ).toFixed(0),
+     
       est_diameter_max: parseFloat(
         results.estimated_diameter.feet.estimated_diameter_max
       ).toFixed(0),
+     
       velocity: parseFloat(
         results.close_approach_data[0].relative_velocity.miles_per_hour
       ).toFixed(0),
-      // NOTE: Orbiting body is likely 'close_approach_data[0].orbiting_body'
+     
       orbiting_body: results.close_approach_data[0].orbiting_body, 
       miss_distance: parseFloat(
         results.close_approach_data[0].miss_distance.lunar
@@ -111,7 +114,7 @@ const addPHA = async (phaData) => {
     });
     
     // Save to the database
-    return phaInstance.save().catch((dbError) => {
+    return pha_instance.save().catch((dbError) => {
       console.error(`[DB ERROR] Could not save NEO ID ${results.neo_reference_id}: ${dbError.message}`);
       return "error"; // Return an error identifier to be filtered later
     });
@@ -119,7 +122,7 @@ const addPHA = async (phaData) => {
 };
 
 // --- Execution Loop ---
-const populateDataBase = async () => {
+const populate_datebase = async () => {
   console.log("Starting NASA NEO data population...");
   let year = 2025;
   let days = 1;
@@ -133,11 +136,11 @@ const populateDataBase = async () => {
     
     // Check if the end date crosses into 2023, and adjust the loop exit logic if necessary
     if (start.getFullYear() !== year) break; 
-    const startDateString = start.toISOString().slice(0, 10);
-    const endDateString = end.toISOString().slice(0, 10);
+    const start_date_string = start.toISOString().slice(0, 10);
+    const end_date_string = end.toISOString().slice(0, 10);
 
     // Push the promise returned by the async function
-    promised.push(getPHAFrApi(startDateString, endDateString));
+    promised.push(get_pha_from_api(start_date_string, end_date_string));
     days += 8; 
   }
 
@@ -153,6 +156,6 @@ const populateDataBase = async () => {
     process.exit(1); // Exit with a non-zero code to signal failure
   }
 };
-populateDataBase()
+populate_datebase()
 
-module.exports = {addPHA}
+module.exports = {add_pha_to_db}

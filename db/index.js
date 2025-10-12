@@ -1,18 +1,14 @@
 const mongoose = require("mongoose");
 require('dotenv').config();
 
-const dbUrl = process.env.MONGO_URI || 'mongodb://localhost:27017/PHA'; 
+const db_url = process.env.MONGO_URI || 'mongodb://localhost:27017/PHA'; 
 
-mongoose.connect(dbUrl, {
-  useUnifiedTopology: true,  
-  useNewUrlParser: true,
-})
+mongoose.connect(db_url)
 .then(() => console.log('✅ MongoDB connection established successfully.'))
 .catch(err => console.error('❌ MongoDB connection error:', err));
 
-
 // --- Schema Definition ---
-const phaSchema = mongoose.Schema({
+const pha_schema = mongoose.Schema({
   id:  {type: Number, unique: true},
   neo_id: Number,
   name: String,
@@ -26,7 +22,7 @@ const phaSchema = mongoose.Schema({
   is_sentry_object: Boolean,
 });
 
-const Pha = mongoose.model('PHA', phaSchema, 'asteriods'); 
+const Pha = mongoose.model('PHA', pha_schema, 'asteriods'); 
 
 module.exports = {
   Pha,

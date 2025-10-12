@@ -6,7 +6,7 @@ const PhaList = ({ phasList, dispatch, trackerList }) => {
     return (
         <section className="mt-8">
             <h2 className="text-3xl font-bold text-white mb-6 border-b border-gray-700 pb-2">
-                Closest 3-Day Approach
+                Next 3 Close Approaches
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {phasList.length > 0 ? phasList.map(pha => (
@@ -18,7 +18,7 @@ const PhaList = ({ phasList, dispatch, trackerList }) => {
                         onRemove={(id) => dispatch({ type: 'REMOVE_TRACK_PHA', payload: id })}
                     />
                 )) : (
-                    <p className="text-gray-400 col-span-full">No potentially hazardous asteroids found in the next 3 days.</p>
+                    <p className="text-gray-400 col-span-full">No upcoming potentially hazardous asteroids found.</p>
                 )}
             </div>
         </section>
