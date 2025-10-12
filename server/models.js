@@ -2,20 +2,19 @@ const { Pha, addPHA } = require("../db/index");
 
 const retrieve = async () => {
   try {
-    const threeDay = new Date();
-    // Get the date 3 days from now for the upper bound of the search
-    threeDay.setDate(threeDay.getDate() + 3); 
+
+    const today = new Date()
 
     return await Pha.aggregate([
       {
         $match: {
           date: {
-            $gt: new Date(Date.now()),
-            $lte: threeDay,           
+            $gt: today    
           },
         },
       },
-      { $sort: { date: 1 } }, 
+      { $sort: { date: 1 } },
+      {$limit: 3} 
     ]);
   } catch (err) {
     console.error("MODEL ERROR (retrieve):", err);
@@ -29,12 +28,12 @@ const retrieve = async () => {
  * @param {string} end - End date string.
  */
 
-const retrieveCustom = async (start, end) => {
+const retrieve_custom = async (start, end) => {
   try {
-    const startDate = new Date(start);
-    const endDate = new Date(end);
+    const start_date = new Date(start);
+    const end_date = new Date(end);
 
-    if (isNaN(startDate) || isNaN(endDate)) {
+    if (isNaN(start_date) || isNaN(end_date)) {
         throw new Error("Invalid start or end date provided.");
     }
 
@@ -42,15 +41,15 @@ const retrieveCustom = async (start, end) => {
       {
         $match: {
           date: {
-            $gt: startDate,
-            $lte: endDate,
+            $gt: start_date,
+            $lte: end_date,
           },
         },
       },
       { $sort: { date: 1 } },
     ]);
   } catch (err) {
-    console.error("MODEL ERROR (retrieveCustom):", err);
+    console.error("MODEL ERROR (retrieve_custom):", err);
     throw err;
   }
 };
@@ -58,7 +57,7 @@ const retrieveCustom = async (start, end) => {
 /**
  * Gets a count of all PHAs year-to-date (2025 to now).
  */
-const getYTD = async () => {
+const get_ytd = async () => {
   try {
     return await Pha.aggregate([
       {
@@ -71,11 +70,11 @@ const getYTD = async () => {
         },
       },
       {
-        $count: "pha_count", // Use a descriptive field name
+        $count: "pha_count",
       },
     ]);
   } catch (err) {
-    console.error("MODEL ERROR (getYTD):", err);
+    console.error("MODEL ERROR (get_ytd):", err);
     throw err; 
   }
 };
@@ -83,6 +82,6 @@ const getYTD = async () => {
 module.exports = {
   addPHA,
   retrieve,
-  getYTD,
-  retrieveCustom,
+  get_ytd,
+  retrieve_custom,
 };
