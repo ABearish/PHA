@@ -1,4 +1,4 @@
-# 🚀 PHA Tracker: Asteroid Monitoring System
+# PHA Tracker: Asteroid Monitoring System
 
 ---
 
@@ -14,7 +14,7 @@ The PHA (Potentially Hazardous Asteroid) Tracker is a full-stack monitoring appl
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
  
 | Category       | Technology                              | Purpose                                                    |
@@ -25,7 +25,7 @@ The PHA (Potentially Hazardous Asteroid) Tracker is a full-stack monitoring appl
 | Orchestration  | Docker / Docker Compose                 | Multi-service application defined for easy deployment.     |
 | Worker Service | Node.js                                 | Worker Custom script for robust, scheduled data ingestion. |
 
-## ⚙️ Architecture and Deployment (Coming Soon)
+## Architecture and Deployment (Coming Soon)
 
 The application runs as a secure, three-tier microservice architecture managed by Docker Compose:
 - mongo: The database service, secured with authentication and using a named volume (mongo_data) for guaranteed persistence across container restarts.
@@ -59,7 +59,7 @@ The application runs as a secure, three-tier microservice architecture managed b
 	- Open your browser to: http://localhost/
 ---
 
-## 💻 Systems Engineering Highlights
+## Systems Engineering Highlights
 
 1. Robust Data Pipeline and Resilience:
 - The worker service implements a critical SRE (Site Reliability Engineering) pattern: API Call Retries.
